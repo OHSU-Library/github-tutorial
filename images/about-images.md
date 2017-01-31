@@ -21,15 +21,12 @@ In this example, the filename is enough of a 'url' because this file (https://gi
 
 To reference/embed an image that is *not* in the same directory, a more careful approach is needed.
 
-### Absolute path referencing
+### Referencing imagees
 
 | Absolute path referencing | Relative path referencing|
 |-----------------------------|---------------------------|
-|`https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png`|`../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png`|
-|![](https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)|![](../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)
-
-### Relative path referencing
-
+|`https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/blob/master/analysis-code/figs/barplot_pct-1.png`|`../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png`|
+|![](https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/blob/master/analysis-code/figs/barplot_pct-1.png)|![](../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)|
 
 
 
