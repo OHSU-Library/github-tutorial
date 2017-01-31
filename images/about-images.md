@@ -8,8 +8,8 @@ Eg.
 
 | encoding needed | no encoding needed |
 | ------------------ | ----------- |
-| ../images/github%20organizations%20teams%20repos.png | ../images/github-organizations-teams-repos.png|
-| ![](../images/github%20organizations%20teams%20repos.png) | ![](../images/github-organizations-teams-repos.png)|
+| ..github%20organizations%20teams%20repos.png | github-organizations-teams-repos.png|
+| ![](github%20organizations%20teams%20repos.png) | ![](github-organizations-teams-repos.png)|
 
 
 It is also possible to reference an image using an external URL, in another github repository, or anywhere on the web, however this method can be fragile if the URL changes or could lead to unintended changes. For instance, if you get a picture of the occupant of a political office, you may be caught unaware if the occupant changes and so does your photo. Therefore make your own copies and reference those **unless** 
