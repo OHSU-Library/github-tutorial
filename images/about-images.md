@@ -25,8 +25,8 @@ To reference/embed an image that is *not* in the same directory, a more careful 
 
 | Absolute path referencing | Relative path referencing|
 |-----------------------------|---------------------------|
-|`https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/blob/master/analysis-code/figs/barplot_pct-1.png`|`../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png`|
-|![](https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/blob/master/analysis-code/figs/barplot_pct-1.png)|![](../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)|
+|`https://github.com/OHSU-Library/github-tutorial/blob/master/other-images/random-other-image.svg`|`../other-images/random-other-image.svg`|
+|![](https://github.com/OHSU-Library/github-tutorial/blob/master/other-images/random-other-image.svg)|![](../other-images/random-other-image.svg)|
 
 
 
