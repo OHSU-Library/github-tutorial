@@ -1,6 +1,18 @@
 #About using images in Git/GitHub
 
-Images that are embedded into issues can be dragged and dropped in the GitHub interface, however all other images (eg. in markdown files etc) need to be referenced using a URL (at least as of now). Keeping images in a single directory enables them to be referenced more readily. Sensible file names are highly recommended, preferably without spaces as these are hard to read when encoded.
+There are two places you'll probaby want to use images in GitHub, in issues and in markdown files. The way you do so is quite different
+
+## In issues
+
+Images that are embedded into *issues* can be dragged and dropped in the GitHub issues interface.
+Once you've done so, it will look something like this with GitHub assigning an arbitrary URL for the image.
+
+````![](screenshot-of-images-in-issues.png)````
+![](screenshot-of-images-in-issues.png)
+
+
+## In markdown files (and html etc)
+, however all other images (eg. in markdown files etc) need to be referenced using a URL (at least as of now). Keeping images in a single directory enables them to be referenced more readily. Sensible file names are highly recommended, preferably without spaces as these are hard to read when encoded.
 An identical file, named in two different ways is shown as an example below.
 They render in the same way, but the source "code" looks ugly when spaces are used in file names.
 
