@@ -7,7 +7,8 @@ There are two places you'll probaby want to use images in GitHub, in issues and 
 Images that are embedded into *issues* can be dragged and dropped in the GitHub issues interface.
 Once you've done so, it will look something like this with GitHub assigning an arbitrary URL for the image.
 
-````![](screenshot-of-images-in-issues.png)````
+````![](screenshot-of-images-in-issues.png) ````
+
 ![](screenshot-of-images-in-issues.png)
 
 
