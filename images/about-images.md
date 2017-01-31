@@ -23,16 +23,17 @@ To reference/embed an image that is *not* in the same directory, a more careful 
 
 ### Absolute path referencing
 
-````https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png````
-
-![](https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)
+| Absolute path referencing | Relative path referencing|
+|-----------------------------|---------------------------|
+|`https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png`|`../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png`|
+|![](https://github.com/OHSU-Library/Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)|![](../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)
 
 ### Relative path referencing
 
-../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png
-![](../../Biomedical_Journal_Data_Sharing_Policies/analysis-code/figs/barplot_pct-1.png)
 
-Each instance of ````../```` means 'go up one level' in the file tree.
+
+
+Each instance of `../` means 'go up one level' in the file tree.
 
 It is also possible to reference an image using an external URL outside your control, in another github organization, or anywhere on the web, however this method can be fragile if the URL changes or could lead to unintended changes. Therefore make your own copies and reference those **unless** 
  - You're  sure that referencing the originals will not end in broken links or surprising content. 
