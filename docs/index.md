@@ -1,13 +1,44 @@
-### OHSU Library GitHub Tutorial
+# OHSU Library GitHub Tutorial
 
-![OHSU Library](http://www.ohsu.edu/xd/assets/img/content/touch-icon.png)
+![](http://www.ohsu.edu/xd/assets/img/content/touch-icon.png)
 
+The [OHSU Library Ontology Development Group](http://www.ohsu.edu/xd/education/library/about/departments/ontology/) has prepared a short set of presentations and exercises to help our team, and perhaps others in the [OHSH Library](http://www.ohsu.edu/xd/education/library/), learn more about GitHub and how it can be used for a variety of purposes beyond software development.
 
-#### Lessons
+Our goal is to help participants set up their GitHub accounts and become comfortable with the concepts, terminology, and capabilities of GitHub and how it can enhance an individual or team effort. We expect that most of the features we will demonstrate can be performed via a web browser and will not require a desktop computer.
+
+### Caveat: Version 1.0 of This Tutorial
+
+We hope to learn through feedback from the tutorial participants, and to use this to improve the tutorial materials. All of the content for this course is being created and shared via GitHub, where we intend to encourage participants to collaborate and improve the content, while learning and exercising GitHub-based techniques.
+
+## Goals
+
+We hope that participants in the tutorial will leave with a better understanding of GitHub and its potential utility for their individual and team needs, whether these be education, software development, data curation, or project management. Specific topics we intend to cover include:
+
+- Basic GitHub account setup, including configuring a user profile.
+- GitHub dashboard elements
+- The GitHub organizational model, including *Users*, *Organizations*, and *Teams*
+- The GitHub content model, including *Files*, *Gists*, *Repositories*, *Branches*, *Forks*
+- *Markdown* as a concise and universal way to author structured text
+- Gists as a way to share small amounts of text or code
+- Use of GitHub to store different content types such as *CSV*, *GeoJSON*, images, and more.
+- Use of GitHub to create and publish websites and applications via GitHub Pages
+
+## Non-Goals
+
+This course is focused on all that GitHub can do without requiring a desktop computer or worrying about programming languages. Some of the things we will not be discussing explicitly include:
+
+- Cloning a Git repo locally
+- Forking a repo
+- Resolving conflicts
+
+## Lesson Plan
+
+We currently have broken the above material into two Lessons, based upon our estimate of how much can be covered in an hour. This partitioning may be adjusted as we practice this course.
 
 - [Lesson 1](lessons/Lesson1) will discuss Gists and stuff
 - [Lesson 2](lessons/Lesson2) will discuss more stuff
 
 #### Resources
 
+- [Frequently Asked Questions](FAQ)
 - [Julie's Content Doc](content)
