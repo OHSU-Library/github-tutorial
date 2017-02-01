@@ -1,5 +1,6 @@
 ## How-To
 
-[Images How-To](images)
+[Markdown How-To](markdown)
+[Images in Markdown How-To](images)
 
 ### [Back to Home](../index)

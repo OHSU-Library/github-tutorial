@@ -20,23 +20,28 @@ We hope that participants in the tutorial will leave with a better understanding
 - The GitHub content model, including *Files*, *Gists*, *Repositories*, *Branches*, *Forks*
 - *Markdown* as a concise and universal way to author structured text
 - Gists as a way to share small amounts of text or code
-- Use of GitHub to store different content types such as *CSV*, *GeoJSON*, images, and more.
+- Use of GitHub to store different data and content types such as *CSV*, *GeoJSON*, images, and more.
 - Use of GitHub to create and publish websites and applications via GitHub Pages
+- Using Gitter for asynchronous, joinable team communication
+- Using GitHub Issues and Milestones to track project progress and communicate and retain team knowledge.
+
 
 ## Non-Goals
 
 This course is focused on all that GitHub can do without requiring a desktop computer or worrying about programming languages. Some of the things we will not be discussing explicitly include:
 
-- Cloning a Git repo locally
+- Using GitHub's Social Network features such as Watch, Star, and Find-a-Job.
+- Cloning a GitHub repo locally
 - Forking a repo
 - Resolving conflicts
+- GitHub integration via webhooks and other types of API access
 
 ## Lesson Plan
 
 We currently have broken the above material into two Lessons, based upon our estimate of how much can be covered in an hour. This partitioning may be adjusted as we practice this course. The Lessons below are intended to be used by the instructor/guide of the course, but could be used by a self-guided student
 
-- [Lesson 1](lessons/Lesson1) will discuss Gists and stuff
-- [Lesson 2](lessons/Lesson2) will discuss more stuff
+- [Lesson 1](lessons/Lesson1) GitHub account setup, dashboard, organizational and content models, Gists, Markdown, Data
+- [Lesson 2](lessons/Lesson2) GitHub Pages, Gitter, Issues/Milestones, Branches/Forks
 
 ## How-Tos
 

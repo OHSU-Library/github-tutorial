@@ -1,0 +1,16 @@
+#### Class Roster
+
+- [jmcmurry](https://github.com/jmcmurry)
+- [ThorntonT](https://github.com/ThorntonT)
+- [wilkerst](https://github.com/wilkerst)
+- [archivesteve](https://github.com/archivesteve)
+- [dunka434](https://github.com/dunka434)
+- [ChrisTheCat](https://github.com/ChrisTheCat)
+- [carrsh](https://github.com/carrsh)
+- [jpgourdine](https://github.com/jpgourdine)
+- [steelesgh](https://github.com/steelesgh)
+- [kernss](https://github.com/kernss)
+- [nicolevasilevsky](https://github.com/nicolevasilevsky)
+- [deshazok](https://github.com/deshazok)
+- [lelinh1](https://github.com/lelinh1)
+- [siufanua](https://github.com/siufanua)
