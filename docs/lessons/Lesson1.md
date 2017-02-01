@@ -15,6 +15,19 @@
 [GitHub Accounts, Organizations and Teams](#organization)
 [Markdown](#markdown)
 
+
+### Organization
+Git supports the following types of entities:
+- Individuals
+- Teams of individuals
+- Organizations
+- Repositories
+
+The relationships between any combination of these entities is many-to-many, with the nuanced exception of repositories.
+Repositories belong either to a single organization or to a single individual; forks of a repository may be set up in other organizations or in other individuals. 
+
+![](../../images/github-organizations-teams-repos.png)
+
 ### Markdown
 
 ```no-highlight
@@ -34,30 +47,6 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
-
-
-
-
-### Organization
-
-```no-highlight
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-```
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
 
 
 ### [Back to Home](..)
