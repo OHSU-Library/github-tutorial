@@ -33,12 +33,18 @@ This course is focused on all that GitHub can do without requiring a desktop com
 
 ## Lesson Plan
 
-We currently have broken the above material into two Lessons, based upon our estimate of how much can be covered in an hour. This partitioning may be adjusted as we practice this course.
+We currently have broken the above material into two Lessons, based upon our estimate of how much can be covered in an hour. This partitioning may be adjusted as we practice this course. The Lessons below are intended to be used by the instructor/guide of the course, but could be used by a self-guided student
 
 - [Lesson 1](lessons/Lesson1) will discuss Gists and stuff
 - [Lesson 2](lessons/Lesson2) will discuss more stuff
 
+## How-Tos
+
+In addition to the high-level Lessons, we've prepared some more detailed descriptions of practical solutions to common challenges when using GitHub and Markdown.
+
+[HowTos](howto)
+
 #### Resources
 
 - [Frequently Asked Questions](FAQ)
-- [Julie's Content Doc](content)
+- [Julie's Original Content Doc](content)

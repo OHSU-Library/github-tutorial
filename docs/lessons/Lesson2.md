@@ -6,4 +6,4 @@
 
 ## Gitter
 
-### [Back to Home](..)
+### [Back to Home](../index)

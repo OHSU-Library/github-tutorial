@@ -2,7 +2,7 @@
 - *Git* is for command line, *GitHub* is the web interface
 - 2005 born after spectacular Linux tooling failure
 - Cross-platform tooling - Windows, Mac, Linux
-- Merge files rather than a “lock and checkout” model
+- Merge files rather than a "lock and checkout" model
 - Non-linear branching model of version control
 
 ## VERSION CONTROL
