@@ -21,18 +21,16 @@ In this example, the filename is enough of a 'url' because this file (https://gi
 
 To reference/embed an image that is *not* in the same directory, a more careful approach is needed.
 
-### Referencing imagees
+### Referencing images in your repository and elsewhere
 
 | Absolute path referencing | Relative path referencing|
 |-----------------------------|---------------------------|
 |`![](https://github.com/OHSU-Library/github-tutorial/blob/master/other-images/owl.jpg)`|`![](../other-images/owl.jpg)`|
 |![](https://github.com/OHSU-Library/github-tutorial/blob/master/other-images/owl.jpg)|![](../other-images/owl.jpg)|
 
-
-
 Each instance of `../` means 'go up one level' in the file tree.
 
-It is also possible to reference an image using an external URL outside your control, in another github organization, or anywhere on the web, however this method can be fragile if the URL changes or could lead to unintended changes. Therefore make your own copies and reference those **unless** 
+It is also possible to reference an image using an external URL outside your control, in another github organization, or anywhere on the web, however this method can be fragile if the URL changes or could lead to unintended changes. Therefore make your own copies and reference those **unless:** 
  - You're  sure that referencing the originals will not end in broken links or surprising content. 
  - Copying the image is prohibited 
  - The images are too large to make copying worth the hassle/expense.
@@ -48,7 +46,7 @@ For example, it is not clear for how long the image below will manage to persist
 Images that are embedded into *issues* can be dragged and dropped in the GitHub issues interface.
 Once you've done so, it will look something like this with GitHub assigning an arbitrary URL (githubuserassets) for the image.
 
-````![](screenshot-of-images-in-issues.png) ````
+`![](screenshot-of-images-in-issues.png)`
 
 ![](screenshot-of-images-in-issues.png)
 
