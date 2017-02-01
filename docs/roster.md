@@ -14,3 +14,6 @@
 - [deshazok](https://github.com/deshazok)
 - [lelinh1](https://github.com/lelinh1)
 - [siufanua](https://github.com/siufanua)
+- [siufanua](https://github.com/siufanua)
+- [lrwyatt](https://github.com/lrwyatt)
+- [zeigenl](https://github.com/zeigenl)
