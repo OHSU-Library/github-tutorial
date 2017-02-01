@@ -12,8 +12,9 @@
 
 ## ToC
 
-[GitHub Accounts, Organizations and Teams](#organization)
-[Markdown](#markdown)
+- [GitHub Accounts, Organizations and Teams](#organization)
+- [Markdown](#markdown)
+- [Content types](#content)
 
 
 ### Organization
@@ -47,6 +48,15 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
+
+### Content
+GitHub can store any kind of content, provided it isn't too big. (And now [even this is possible](https://git-lfs.github.com/)).
+However, it is more capable for some filetypes than it is for others. Certain filetypes can be viewed 'natively' within the GitHub interface. These are:
+- Images: png, jpg, svg
+- GEOJSON
+- CSV, TSV (note that files named type '.tab' will not render properly in the UI.
+- Markdown
+- HTML
 
 
 ### [Back to Home](..)
