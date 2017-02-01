@@ -51,8 +51,12 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - GEOJSON
 - CSV, TSV (note that files named type '.tab' will not render properly in the UI.
 - Markdown
-- HTML
+- Software code (eg. including json, HTML, xml etc)
 - Any of these can also be set up outside of a repository but within your use
+
+### Issues
+The GitHub issue tracker is easy to use, fairly lightweight and capable for a lot of the basic project management one would want to do.
+This guide is a nice overview: https://guides.github.com/features/issues/
 
 
 ### [Back to Home](..)
