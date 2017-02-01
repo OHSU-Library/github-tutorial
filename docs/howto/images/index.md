@@ -1,4 +1,4 @@
-#About using images in Git/GitHub
+# About using images in Git/GitHub
 
 There are two places you'll probaby want to use images in GitHub, in issue tracker and in markdown files, html etc.
 The way you handle images in these contexts is quite different, but easy once you get the hang of it.
@@ -18,7 +18,7 @@ Eg.
 | `![](github%20organizations%20teams%20repos.png` | `![](github-organizations-teams-repos.png`|
 | ![](github%20organizations%20teams%20repos.png) | ![](github-organizations-teams-repos.png)|
 
-In this example, the filename is enough of a 'url' because this file (https://github.com/OHSU-Library/github-tutorial/edit/master/images/about-images.md) and the images are in the same directory https://github.com/OHSU-Library/github-tutorial/edit/master/images.
+In this example, the filename is enough of a 'url' because this file (https://ohsu-library.github.io/github-tutorial/howto/images/index.md) and the images are in the same directory https://ohsu-library.github.io/github-tutorial/howto/images/.
 
 To reference/embed an image that is *not* in the same directory, a more careful approach is needed.
 
@@ -26,8 +26,8 @@ To reference/embed an image that is *not* in the same directory, a more careful 
 
 | Absolute path referencing | Relative path referencing|
 |-----------------------------|---------------------------|
-|`![](https://github.com/OHSU-Library/github-tutorial/blob/master/docs/other-images/owl.jpg)`|`![](../other-images/owl.jpg)`|
-|![](https://github.com/OHSU-Library/github-tutorial/blob/master/docs/other-images/owl.jpg)|![](../../other-images/owl.jpg)|
+|`![](https://github.com/OHSU-Library/github-tutorial/raw/master/docs/other-images/owl.jpg)`|`![](../../other-images/owl.jpg)`|
+|![](https://github.com/OHSU-Library/github-tutorial/raw/master/docs/other-images/owl.jpg)|![](../../other-images/owl.jpg)|
 
 Each instance of `../` means 'go up one level' in the file tree.
 
@@ -59,9 +59,8 @@ Ideally, a Markdown document is renderable in a variety of output formats and de
 
 In order to size images, use the native html syntax: ````width =```` with the <img src=, as per below.
 
-````<img src="https://github.com/monarch-initiative/monarch-app/blob/master/image/Phenogrid3Compare.png" width="53">````
+````<img src="https://github.com/monarch-initiative/monarch-app/raw/master/image/Phenogrid3Compare.png" width="53">````
 
-<img src="https://github.com/monarch-initiative/monarch-app/blob/master/image/Phenogrid3Compare.png" width="53">
-
+<img src="https://github.com/monarch-initiative/monarch-app/raw/master/image/Phenogrid3Compare.png" width="53">
 
 ### [Back to Home](../../index)

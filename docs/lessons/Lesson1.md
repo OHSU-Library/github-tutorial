@@ -25,7 +25,7 @@ Git supports the following types of primary entities:
 The relationships between any combination of these entities is many-to-many, with the nuanced exception of repositories.
 Repositories belong *either* to a single organization or to a single *individual*; "forks" of a repository may be set up in other organizations or in other individuals.
 
-![](../images/github-organizations-teams-repos.png)
+![](../howto/images/github-organizations-teams-repos.png)
 
 ### Markdown
 
