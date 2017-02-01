@@ -1,31 +1,24 @@
 # Welcome to Lesson 1
 
-- Tour of GitHub				
-- Organizations, Repos				
-- Accounts, Teams				
-- Content types (PNG, GEOJSON, CSV, Markdown...)				
-- Markdown-in-depth				
-- Gists and Markdown Quiz				
-- Issues - Feedback on the course, improve the course content				
-- Milestones?				
-- Tutorial Tasks: Acccount Profile Grooming, Simple markdown doc in a Gist, Submit an Issue
-
-## ToC
-
+- [Don't get scared, get started](#getting-started)
 - [GitHub Accounts, Organizations and Teams](#organization)
-- [Markdown](#markdown)
 - [Content types](#content)
+- [Markdown](#markdown)
+- [Issue tracker](#Issues)
+- [Tutorial tasks](#Tasks)
 
 
 ### Organization
 Git supports the following types of entities:
-- Individuals
-- Teams of individuals
-- Organizations
+- Individual: A person who contributes to GitHub
+- Repository: A 
+- Organization: An entity that may correspond to an actual organization (such as a university) or to a meaningful grouping of repositories. Organizations are like individuals except that they can 
+- Teams of individuals: A group of indif
+
 - Repositories
 
 The relationships between any combination of these entities is many-to-many, with the nuanced exception of repositories.
-Repositories belong either to a single organization or to a single individual; forks of a repository may be set up in other organizations or in other individuals. 
+Repositories belong *either* to a single organization or to a single *individual*; "forks" of a repository may be set up in other organizations or in other individuals. 
 
 <img src = ../../images/github-organizations-teams-repos.png width = 300 align="center">
 
@@ -57,6 +50,7 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - CSV, TSV (note that files named type '.tab' will not render properly in the UI.
 - Markdown
 - HTML
+- Any of these can also be set up outside of a repository but within your use
 
 
 ### [Back to Home](..)
