@@ -14,7 +14,7 @@ Eg.
 
 | encoding needed | no encoding needed |
 | ------------------ | ----------- |
-| github%20organizations%20teams%20repos.png | github-organizations-teams-repos.png|
+| `![](github%20organizations%20teams%20repos.png` | `![](github-organizations-teams-repos.png`|
 | ![](github%20organizations%20teams%20repos.png) | ![](github-organizations-teams-repos.png)|
 
 In this example, the filename is enough of a 'url' because this file (https://github.com/OHSU-Library/github-tutorial/edit/master/images/about-images.md) and the images are in the same directory https://github.com/OHSU-Library/github-tutorial/edit/master/images.
@@ -25,7 +25,7 @@ To reference/embed an image that is *not* in the same directory, a more careful 
 
 | Absolute path referencing | Relative path referencing|
 |-----------------------------|---------------------------|
-|`https://github.com/OHSU-Library/github-tutorial/blob/master/other-images/owl.jpg`|`../other-images/owl.jpg`|
+|`![](https://github.com/OHSU-Library/github-tutorial/blob/master/other-images/owl.jpg)`|`![](../other-images/owl.jpg)`|
 |![](https://github.com/OHSU-Library/github-tutorial/blob/master/other-images/owl.jpg)|![](../other-images/owl.jpg)|
 
 
