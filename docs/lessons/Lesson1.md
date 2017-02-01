@@ -8,14 +8,14 @@
 - [Tutorial tasks](#Tasks)
 
 ### Getting started
-GitHub itself isn’t much more than a social network like Facebook or Instagram. You build a profile, upload projects to share and connect with other users by “following” their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off. It is capable of storing any file type from text, to structured data, to software. And more features are being added by the day. The real power of Git, however, is less about individuals publishing content (many places can do that, including google docs etc). It is more about that content being easily shared, built upon, and credited in a way that is robust to the realities of distributed collaboration. While the power of GitHub is daunting, you don't actually have to know that much in order to gain a lot of benefit from using it.
+GitHub itself isn’t much more than a social network like Facebook or Instagram. You build a profile, upload projects to share and connect with other users by “following” their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off. It is capable of storing any file type from text, to structured data, to software. And more features are being added by the day. The real power of Git, however, is less about individuals publishing content (many places can do that, including google docs etc). It is more about that content being easily shared, built upon, and credited in a way that is robust to the realities of distributed collaboration. While the power of GitHub is daunting, you don't actually have to be a blackbelt to gain a lot of benefit from using it. You don't even have to know how to code or use the commandline. 
 
 ### Organization
-Git supports the following types of entities:
-- Individual: A person who contributes to GitHub
-- Repository: A 
-- Organization: An entity that may correspond to an actual organization (such as a university) or to a meaningful grouping of repositories. Organizations are like individuals except that they can 
-- Teams of individuals: A group of indif
+Git supports the following types of primary entities:
+- **Individual:** A person who contributes to GitHub
+- **Repository:** A collection of files
+- **Organization:** An entity that may correspond to an actual organization (such as a university) or to a meaningful grouping of repositories. Organizations are like individuals except that they can 
+- **Teams**: A group of individuals assembled by the administrators of an organization. An individual may participate in many teams, however a team is always bound to a single organization.
 
 - Repositories
 
