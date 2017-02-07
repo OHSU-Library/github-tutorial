@@ -1,6 +1,6 @@
 ## Welcome to Lesson 2
 
-### 0. Know when GitHub is the best choice:
+### 0. Know when GitHub is the best choice
 
 ### ... for your documents
 
@@ -19,18 +19,20 @@
 `*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). 
 Combinations of technologies can work well (eg. link a google doc to a github issue) if you understand their limitations.
 
-### ... for your projects
+### ... for your project management tracking
 
 | Feature | GitHub issues       | [MS Project](https://products.office.com/en-us/project/compare-microsoft-project-management-software) | [JIRA](https://www.atlassian.com/software/jira)  | [Trello](http://trello.com) |
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
 |Free	| +++	| -- | ---| +++ |
 |Transparent/attribution-friendly	| +++	| +	| ---	| + |
-|Suited to digital-artifact based projects	| +++	| +++	| - | ++ |
+|Suited to digital-artifact based projects `**`	| +++	| +++	| - | ++ |
 |Tight integration w chat systems	| +++	| ?	| ? | ? |
 |Detailed dependency view/control| + | +++ |+++| ? |
 |Powerful but not overwhelming/feature-bloated |+++| + | -- | +++ |
 
 TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm and that ALSO the buy-in of the team for a lot of organizational overhead. For *most* projects, I have found GitHub, in combination with google docs, to be ample tool for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options.
+
+GitHub is not per se *poorly* suited to managing projects that are not digital artifact based, but there's less of a marginal advantage that makes it a clear win. The caveat is that when all projects, regardless of nature, are on GitHub, things do go more smoothly and competing priorities are easier to spot and tackle.
 
 ### 1. How to create Issues that are clear and useful
 **Who:**
