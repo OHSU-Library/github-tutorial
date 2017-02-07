@@ -33,7 +33,7 @@ How to create an issue in github:
 
 - Follow the instructions above to create a ticket about a hypothetical issue in the library (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
 
-### 2.1 How to assign issues to people, add labels, use direct @ mentions, link documents
+### 2.1 How to assign issues to people, add labels
 
 **Assign issues to people**
 
@@ -48,6 +48,24 @@ How to create an issue in github:
 - On the top right hand side, click "Labels"
 
 - Assign a relevant label to your ticket
+
+**Your turn:**
+
+On the ticket you previously created:
+
+- assign the ticket to Nicole
+
+- add a label for an enhancement
+
+### 2.2 How to comment on tickets, use direct @ mentions, link documents
+
+- Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
+
+- Scroll to the bottom of the ticket, and add content in the "Leave a comment" field
+
+- Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
+
+- Preview your text to see how your formatting looks
 
 **Use direct @ mentions**
 
@@ -71,23 +89,13 @@ How to create an issue in github:
 
 **Your turn:**
 
-- On the ticket you previously created, assign the ticket to Nicole, add a label for an enhancement, mention Julie, and attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
+- Follow the instructions above to comment on a ticket that someone created. 
 
-- Add a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
+- Mention Julie
 
-### 2.2 How to comment on tickets
+- Attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
 
-- Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
-
-- Scroll to the bottom of the ticket, and add content in the "Leave a comment" field
-
-- Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
-
-- Preview your text to see how your formatting looks
-
-**Your turn:**
-
-- Follow the instructions above to comment on a ticket that someone created
+- Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
 ### 3. How to organize issues into Projects and Milestones
 
