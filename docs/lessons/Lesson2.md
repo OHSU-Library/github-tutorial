@@ -53,11 +53,13 @@ How to create an issue in github:
 
 On the ticket you previously created:
 
-- assign the ticket to Nicole
+- Assign the ticket to Nicole
 
-- add a label for an enhancement
+- Add a label for an enhancement
 
 ### 2.2 How to comment on tickets, use direct @ mentions, link documents, cross reference other tickets
+
+**Comment on tickets**
 
 - Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
 
@@ -67,11 +69,13 @@ On the ticket you previously created:
 
 - Preview your text to see how your formatting looks
 
+- Click Comment. If you want to close the ticket, click Close Issue. Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the ticket and click Close Issue. The ticket will no longer be dispalyed in the list of open tickets, but will be archived.
+
 **Use direct @ mentions**
 
 - You can mention someone in a ticket without assigning it to them
 
-- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry. You can either type their name or github handle.
+- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry. You can either start typing their name or github handle and github will autosuggest their handle.
 
 **Link documents**
 
