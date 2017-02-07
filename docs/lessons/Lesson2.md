@@ -10,6 +10,7 @@
 
 ### When to use GitHub 
 [Back to top](#welcome-to-lesson-2)
+
 It can be tricky to figure out what technologies to use for what kinds of purposes. Below is an oversimplification, but hopefully useful.
 
 #### ... for managing versions your documents
