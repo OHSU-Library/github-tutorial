@@ -65,13 +65,15 @@ How to create an issue in github:
 
 - Type # and you will see a list of other tickets in that repo.
 
-- Type #TicketNumber and that will link to the other ticket. For example #10 will link to (this ticket[https://github.com/OHSU-Library/github-tutorial/issues/10] 
+- Type #TicketNumber and that will link to the other ticket. For example [#10](https://github.com/OHSU-Library/github-tutorial/issues/10) will link to [this ticket](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
 **_Before saving your changes, you can preview the comment to ensure the correct formatting._**
 
 **Your turn:**
 
 - On the ticket you previously created, assign the ticket to Nicole, add a label for an enhancement, mention Julie, and attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
+
+- Add a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
 ### 2.2 How to comment on tickets
 
