@@ -34,7 +34,7 @@ TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved fo
 
 `**` GitHub is not per se *poorly* suited to managing projects that are not digital artifact based, but there's less of a marginal advantage that makes it a clear win over other free tools like Trello. The caveat is that when all of someone's projects, regardless of nature, are on GitHub, their competing priorities are easier to spot and tackle.
 
-### 1. How to create Issues that are clear and useful
+### 1. How to create issues that are clear and useful
 
 **Why:**
 "Issues are a great way to keep track of **tasks**, **enhancements**, and **bugs** for your projects or for anyone else's. As long as you are a registered GitHub user you can log an issue, or comment on an issue for any open repo on GitHub. Issues are a bit like email—except they can be shared, intelligently organized, and discussed with the rest of your team. GitHub’s tracker is called Issues, and has its own section in every repository." (From: https://guides.github.com/features/issues/)
