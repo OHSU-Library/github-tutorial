@@ -1,8 +1,6 @@
 # OHSU Library GitHub Tutorial
 
-![](http://www.ohsu.edu/xd/assets/img/content/touch-icon.png)
-
-The [OHSU Library Ontology Development Group](http://www.ohsu.edu/xd/education/library/about/departments/ontology/) has prepared a short set of presentations and exercises to help our team, and perhaps others in the [OHSH Library](http://www.ohsu.edu/xd/education/library/), learn more about GitHub and how it can be used for a variety of purposes beyond software development.
+The [OHSU Library Ontology Development Group](http://www.ohsu.edu/xd/education/library/about/departments/ontology/) has prepared a short set of presentations and exercises to help our team, and perhaps others in the [OHSU Library](http://www.ohsu.edu/xd/education/library/), learn more about GitHub and how it can be used for a variety of purposes beyond software development.
 
 Our goal is to help participants set up their GitHub accounts and become comfortable with the concepts, terminology, and capabilities of GitHub and how it can enhance an individual or team effort. We expect that most of the features we will demonstrate can be performed via a web browser and will not require a desktop computer.
 
