@@ -8,7 +8,8 @@
 - [Where to go when you need help](#help)
 - [Miscellany that is good to know](#miscellany)
 
-### When to use GitHub [top](#welcome-to-lesson-2)
+### When to use GitHub 
+[top](#welcome-to-lesson-2)
 
 ### ... for your documents
 
@@ -42,7 +43,8 @@ TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved fo
 
 `**` GitHub is not per se *poorly* suited to managing projects that are not digital artifact based, but there's less of a marginal advantage that makes it a clear win over other free tools like Trello. The caveat is that when all of someone's projects, regardless of nature, are on GitHub, their competing priorities are easier to spot and tackle.
 
-### Create issues [top](#welcome-to-lesson-2)
+### Create issues 
+[top](#welcome-to-lesson-2)
 
 **Why:**
 "Issues are a great way to keep track of **tasks**, **enhancements**, and **bugs** for your projects or for anyone else's. As long as you are a registered GitHub user you can log an issue, or comment on an issue for any open repo on GitHub. Issues are a bit like email—except they can be shared, intelligently organized, and discussed with the rest of your team. GitHub’s tracker is called Issues, and has its own section in every repository." (From: https://guides.github.com/features/issues/)
@@ -67,7 +69,8 @@ How to create an issue in github:
 
 Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to the OHSU Library website, or a request for welcome signs in the library) that includes a sub-task list.
 
-### Assign issues [top](#welcome-to-lesson-2)
+### Assign issues 
+[top](#welcome-to-lesson-2)
 
 **Assign issues to people**
 
@@ -87,7 +90,8 @@ On the ticket you previously created:
 - Assign the ticket to Nicole
 - Add a label for an enhancement
 
-### Communicate about issues [top](#welcome-to-lesson-2)
+### Communicate about issues 
+[top](#welcome-to-lesson-2)
 
 **Comment on issues**
 
@@ -126,7 +130,8 @@ You can link documents and files by:
 - Attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
 - Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
-### Organize issues [top](#welcome-to-lesson-2)
+### Organize issues 
+[top](#welcome-to-lesson-2)
 - Create a milestone that is broad enough to be meaningful, but specific enough to be actionable.
 - Set a due date for the milestone (note that specific tasks can not be formally assigned due dates, though you can mention a desired due date in the narrative text of a ticket.
 - Each ticket can only be associated to ONE milestone, however it can have as many labels as appropriate.
@@ -139,7 +144,8 @@ You can link documents and files by:
  - Issues new label textboxSelect a color for the label from the color bar. You can customize this color by editing the hexadecimal number above the color bar.
  - Click Create Label to save the new label.
 
-### Teams [top](#welcome-to-lesson-2)
+### Teams 
+[top](#welcome-to-lesson-2)
 
 Further reading: [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
 [Issue query](https://help.github.com/articles/searching-issues/)
@@ -153,12 +159,14 @@ More complex queries are also possible.
 - All issues either assigned to me OR on which I have commented OR am mentioned: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+
 - All issues in all repos within an organization: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library
 
-### Help [top](#welcome-to-lesson-2)
+### Help 
+[top](#welcome-to-lesson-2)
 If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. https://github.com/isaacs/github/issues/. However, this is a rogue repo and a bit contentious.
  - GitHub kinda monitors https://github.com/isaacs/github/issues/ but not with any rigor.
  - To be safe, contact GitHub directly at https://github.com/contact, but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
  
-### Miscellany [top](#welcome-to-lesson-2)
+### Miscellany 
+[top](#welcome-to-lesson-2)
 - It is possible but not obvious how to rename a repository. https://help.github.com/articles/renaming-a-repository/
 - Certain things you think you *should* be able to do from the UI, you just can not:
   - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or commandline).
