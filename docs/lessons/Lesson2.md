@@ -30,9 +30,9 @@ Combinations of technologies can work well (eg. link a google doc to a github is
 |Detailed dependency view/control| + | +++ |+++| ? |
 |Powerful but not overwhelming/feature-bloated |+++| + | -- | +++ |
 
-TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm and that ALSO the buy-in of the team for a lot of organizational overhead. For *most* projects, I have found GitHub, in combination with google docs, to be ample tool for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options.
+TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm AND that have the buy-in of the team for a lot of organizational overhead. For *most* projects in academia, I have found GitHub, in combination with google docs, to be ample tool for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options.
 
-GitHub is not per se *poorly* suited to managing projects that are not digital artifact based, but there's less of a marginal advantage that makes it a clear win. The caveat is that when all projects, regardless of nature, are on GitHub, things do go more smoothly and competing priorities are easier to spot and tackle.
+`**` GitHub is not per se *poorly* suited to managing projects that are not digital artifact based, but there's less of a marginal advantage that makes it a clear win over other free tools like Trello. The caveat is that when all of someone's projects, regardless of nature, are on GitHub, their competing priorities are easier to spot and tackle.
 
 ### 1. How to create Issues that are clear and useful
 **Who:**
@@ -53,7 +53,7 @@ How to create an issue in github:
 - Write an informative title
 - Write a detailed explanation of your issue
 - Indicate whether the issue is a task, enhancemnet, or bug
-- If you know the tasks that are needed to accomplish it, detail these with the use of `- [ ] ` markdown syntax before each bullet. The status of the tasks in an issue (eg. https://github.com/OHSU-Library/github-tutorial/issues/12) will then be reflected in any summary view. Eg. https://github.com/OHSU-Library/github-tutorial/issues
+- If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. The status of the tasks in an issue (eg. https://github.com/OHSU-Library/github-tutorial/issues/12) will then be reflected in any summary view. Eg. https://github.com/OHSU-Library/github-tutorial/issues
 - Click Submit new issue
 - Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).
 
