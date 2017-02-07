@@ -57,7 +57,7 @@ On the ticket you previously created:
 
 - add a label for an enhancement
 
-### 2.2 How to comment on tickets, use direct @ mentions, link documents
+### 2.2 How to comment on tickets, use direct @ mentions, link documents, cross reference other tickets
 
 - Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
 
@@ -77,11 +77,11 @@ On the ticket you previously created:
 
 - You can link documents and files by copy and pasting URL or you can attach files by dragging and dropping. 
 
-**Link your ticket to another ticket**
+**Cross reference to another ticket**
 
-- If your ticket is a duplicate or related to another ticket, you can reference another ticket. 
+- If your ticket is a duplicate or related to another ticket, you can cross reference another ticket
 
-- Type # and you will see a list of other tickets in that repo.
+- Type # and you will see a list of other tickets in that repo
 
 - Type #TicketNumber and that will link to the other ticket. For example [#10](https://github.com/OHSU-Library/github-tutorial/issues/10) will link to [this ticket](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
