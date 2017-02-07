@@ -11,7 +11,9 @@ Any github user.
 
 How to create an issue in github:
 - Navigate to your repository where you want to create a ticket
+
 - https://github.com/
+
 - On the right hand side, you should see a box with "your repositories"
 
 - Click on your repository of interest
@@ -49,6 +51,30 @@ How to create an issue in github:
 - Follow the instructions above to comment on a ticket that someone created
 
 ### 2.2 How to assign issues to people, use direct @ mentions, link documents
+
+**Assign issues to people**
+
+- On the top right hand side, click "Assignees".
+
+- You can assign issues to yourself or other people who are part of the repository. 
+
+- Start typing the letters of their name for autosuggest
+
+**Use direct @ mentions**
+
+- You can mention someone in a ticket without assigning it to them
+
+- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry 
+
+** Link documents**
+
+- You can link documents and files by copy and pasting URL or you can attach files by dragging and dropping. 
+
+**_Before saving your changes, you can preview the comment to ensure the correct formatting._**
+
+** Your turn:**
+
+- On the ticket you previously commented on, assign the ticket to Nicole, mention Julie and provide attach a picture of a cat (either a picture you grab from the internet, or attach a picture you have saved on your computer)
 
 ### 3. How to organize issues into Projects and Milestones
 
