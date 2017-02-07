@@ -1,4 +1,4 @@
-# OHSU Library GitHub Tutorial BOOOOOOOO
+# OHSU Library GitHub Tutorial
 
 ![](http://www.ohsu.edu/xd/assets/img/content/touch-icon.png)
 
