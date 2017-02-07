@@ -1,8 +1,8 @@
 ## Welcome to Lesson 2
 
-### How to create Issues that are clear and useful
+### 1. How to create Issues that are clear and useful
 **Why:**
-Add explanation
+"Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. Most software projects have a bug tracker of some kind. GitHub’s tracker is called Issues, and has its own section in every repository." (From: https://guides.github.com/features/issues/)
 
 **How:**
 How to create an issue in github:
@@ -18,7 +18,7 @@ How to create an issue in github:
 - [ ] Add a label
 - [ ] Click Submit new issue
 
-### How to organize issues into Projects and Milestones
+### 2. How to organize issues into Projects and Milestones
 
 ### How to assign issues to people, use direct @ mentions, link documents
 
