@@ -5,25 +5,26 @@
 Any github user.
 
 **Why:**
-"Issues are a great way to keep track of **tasks**, **enhancements**, and **bugs** for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. GitHub’s tracker is called Issues, and has its own section in every repository." (From: https://guides.github.com/features/issues/)
+"Issues are a great way to keep track of **tasks**, **enhancements**, and **bugs** for your projects or for anyone else's, even if you are not on the project. Issues are a bit like email—except they can be shared, discussed, and intelligently organized with the rest of your team. GitHub’s tracker is called Issues, and has its own section in every repository." (From: https://guides.github.com/features/issues/)
 
 **How:**
 
 How to create an issue in github:
 
-- Navigate to your repository where you want to create a ticket
-- [www.github.com](https://github.com/)
-- On the right hand side, you should see a box with "your repositories"
-- Click on your repository of interest
+- In [www.github.com](https://github.com/) navigate to the repository where you want to create a ticket:
+ - On the right hand side, you should see a box with "your repositories"
+ - Click on your repository of interest
 - Click "issues"
 - Click "New Issue"
 - Write an informative title
 - Write a detailed explanation of your issue
+- Indicate whether the issue is a task, enhancemnet, or bug
 - Click Submit new issue
+- Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).
 
 **Your turn:**
 
-Follow the instructions above to create a ticket about a hypothetical issue in the library (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
+Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
 
 ### 2.1 How to assign issues to people, add labels
 
@@ -31,7 +32,7 @@ Follow the instructions above to create a ticket about a hypothetical issue in t
 
 - On the top right hand side, click "Assignees"
 - You can assign issues to yourself or other people who are part of the repository 
-- Start typing the letters of their name for autosuggest. You can either type their name or github handle.
+- In the box, start typing type their name or github handle.
 
 **Add labels**
 
@@ -66,6 +67,8 @@ You can link documents and files by:
 
 - copy and pasting URL
 - you can attach files by dragging and dropping. 
+- You can link one issue to another in the same repo by typing '#' followed by the title of the ticket
+- This approach also works across repos but you need to use the full URL (no autocomplete available). Doing this will also cause the referent issue to display that it has been referenced.
 
 **Cross reference to another ticket**
 
@@ -83,6 +86,9 @@ You can link documents and files by:
 - Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
 ### 3. How to organize issues into Projects and Milestones
+- Create a milestone that is broad enough to be meaningful, but specific enough to be actionable.
+- Set a due date for the milestone (note that specific tasks can not be formally assigned due dates, though you can mention a desired due date in the narrative text of a ticket.
+- Each ticket can only be associated to ONE milestone.
 
 ### 4. How to create teams of users for specific tasks
 
