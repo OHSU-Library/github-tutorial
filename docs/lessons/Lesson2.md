@@ -30,15 +30,12 @@ Follow the instructions above to create a ticket about a hypothetical issue in t
 **Assign issues to people**
 
 - On the top right hand side, click "Assignees"
-
 - You can assign issues to yourself or other people who are part of the repository 
-
 - Start typing the letters of their name for autosuggest. You can either type their name or github handle.
 
 **Add labels**
 
 - On the top right hand side, click "Labels"
-
 - Assign a relevant label to your ticket
 
 **Your turn:**
@@ -46,7 +43,6 @@ Follow the instructions above to create a ticket about a hypothetical issue in t
 On the ticket you previously created:
 
 - Assign the ticket to Nicole
-
 - Add a label for an enhancement
 
 ### 2.2 How to comment on tickets, use direct @ mentions, link documents, cross reference other tickets
@@ -54,31 +50,27 @@ On the ticket you previously created:
 **Comment on tickets**
 
 - Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
-
 - Scroll to the bottom of the ticket, and add content in the "Leave a comment" field
-
 - Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
-
 - Preview your text to see how your formatting looks
-
 - Click Comment. If you want to close the ticket, click Close Issue. Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the ticket and click Close Issue. The ticket will no longer be dispalyed in the list of open tickets, but will be archived.
 
 **Use direct @ mentions**
 
 - You can mention someone in a ticket without assigning it to them
-
 - In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry. You can either start typing their name or github handle and github will autosuggest their handle.
 
 **Link documents**
 
-- You can link documents and files by copy and pasting URL or you can attach files by dragging and dropping. 
+You can link documents and files by:
+
+- copy and pasting URL
+- you can attach files by dragging and dropping. 
 
 **Cross reference to another ticket**
 
 - If your ticket is a duplicate or related to another ticket, you can cross reference another ticket
-
 - Type # and you will see a list of other tickets in that repo
-
 - Type #TicketNumber and that will link to the other ticket. For example [#10](https://github.com/OHSU-Library/github-tutorial/issues/10) will link to [this ticket](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
 **_Before saving your changes, you can preview the comment to ensure the correct formatting._**
@@ -86,11 +78,8 @@ On the ticket you previously created:
 **Your turn:**
 
 - Follow the instructions above to comment on a ticket that someone created. 
-
 - Mention Julie
-
 - Attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
-
 - Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
 ### 3. How to organize issues into Projects and Milestones
@@ -98,4 +87,5 @@ On the ticket you previously created:
 ### How to create teams of users for specific tasks
 
 Further reading: [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
+
 ### [Back to Home](../index)
