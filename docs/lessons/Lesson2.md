@@ -21,14 +21,16 @@ Combinations of technologies can work well (eg. link a google doc to a github is
 
 ### ... for your projects
 
-### Strengths:
-- Free for public repositories
-- Transparency fosters higher quality of contributions / discourse
-- Best suited for managing generation, maintenance, deployment of digital-artifact based projects (eg. code, data, and documentation, rather than say building a giant lego car).
-- Tight integration with communication systems (eg. Gitter, Slack, Email).
+| Feature | GitHub issues       | [MS Project](https://products.office.com/en-us/project/compare-microsoft-project-management-software) | [JIRA](https://www.atlassian.com/software/jira)  | [Trello](http://trello.com) |
+|:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
+|Free	| +++	| -- | ---| +++ |
+|Transparent/attribution-friendly	| +++	| +	| ---	| + |
+|Suited to digital-artifact based projects	| +++	| +++	| - | ++ |
+|Tight integration w chat	| +++	| +	| - |
+|Detailed dependency view/control| + | +++ |+++|
+|Powerful but not overwhelming |+++| + | -- | +++ |
 
-### Weaknesses:
-- Provides less detailed dependency control as compared with other platforms such as JIRA or MS project. Such tools are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm and that ALSO the buy-in of the team. For *most* projects, I (Julie) have found GitHub, in combination with google docs, to be ample tool for the PM job.
+TL;DR is that MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm and that ALSO the buy-in of the team. For *most* projects, I (Julie) have found GitHub, in combination with google docs, to be ample tool for the PM job. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options.
 
 ### 1. How to create Issues that are clear and useful
 **Who:**
@@ -41,7 +43,7 @@ Any github user.
 
 How to create an issue in github:
 
-- In [www.github.com](https://github.com/) navigate to the repository where you want to create a ticket:
+- In [github.com](https://github.com/) navigate to the repository where you want to create a ticket:
  - On the right hand side, you should see a box with "your repositories"
  - Click on your repository of interest
 - Click "issues"
