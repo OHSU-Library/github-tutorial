@@ -53,3 +53,4 @@ In addition to the high-level Lessons, we've prepared some more detailed descrip
 
 - [Frequently Asked Questions](FAQ)
 - [Julie's Original Content Doc](content)
+- [Mastering Issues (10 min rad)](https://guides.github.com/features/issues/)
