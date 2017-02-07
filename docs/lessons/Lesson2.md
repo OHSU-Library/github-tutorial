@@ -84,7 +84,7 @@ You can link documents and files by:
 
 ### 3. How to organize issues into Projects and Milestones
 
-### How to create teams of users for specific tasks
+### 4. How to create teams of users for specific tasks
 
 Further reading: [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
 
