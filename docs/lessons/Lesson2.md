@@ -63,7 +63,7 @@ How to create an issue in github:
 
 **Your turn:**
 
-- On the ticket you previously commented on, assign the ticket to Nicole, add a label for an enhancement, mention Julie, and attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
+- On the ticket you previously created, assign the ticket to Nicole, add a label for an enhancement, mention Julie, and attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
 
 ### 2.2 How to comment on tickets
 
