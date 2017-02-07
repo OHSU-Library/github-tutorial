@@ -12,7 +12,7 @@ Any github user.
 How to create an issue in github:
 - Navigate to your repository where you want to create a ticket
 
-- https://github.com/
+- [GitHub](https://github.com/)
 
 - On the right hand side, you should see a box with "your repositories"
 
