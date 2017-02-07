@@ -38,8 +38,8 @@ This course is focused on all that GitHub can do without requiring a desktop com
 
 We currently have broken the above material into two Lessons, based upon our estimate of how much can be covered in an hour. This partitioning may be adjusted as we practice this course. The Lessons below are intended to be used by the instructor/guide of the course, but could be used by a self-guided student
 
-- [Lesson 1](lessons/Lesson1) GitHub account setup, dashboard, organizational and content models, Gists, Markdown, Data
-- [Lesson 2](lessons/Lesson2) GitHub Issues/Milestones, Gitter
+- [Lesson 1](lessons/Lesson1.md) GitHub account setup, dashboard, organizational and content models, Gists, Markdown, Data
+- [Lesson 2](lessons/Lesson2.md) GitHub Issues/Milestones, Gitter
 
 ## How-Tos
 
