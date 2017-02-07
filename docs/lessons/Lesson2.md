@@ -6,7 +6,7 @@
 - [organize issues](organize-issues)
 - [teams](teams)
 - [help](help)
-- [miscellany](miscellany)|
+- [miscellany](miscellany)
 
 ### When to use GitHub
 
