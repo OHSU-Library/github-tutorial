@@ -12,26 +12,18 @@ Any github user.
 How to create an issue in github:
 
 - Navigate to your repository where you want to create a ticket
-
 - [www.github.com](https://github.com/)
-
 - On the right hand side, you should see a box with "your repositories"
-
 - Click on your repository of interest
-
 - Click "issues"
-
 - Click "New Issue"
-
 - Write an informative title
-
 - Write a detailed explanation of your issue
-
 - Click Submit new issue
 
 **Your turn:**
 
-- Follow the instructions above to create a ticket about a hypothetical issue in the library (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
+Follow the instructions above to create a ticket about a hypothetical issue in the library (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
 
 ### 2.1 How to assign issues to people, add labels
 
