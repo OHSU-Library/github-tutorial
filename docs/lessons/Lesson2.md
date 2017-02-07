@@ -1,5 +1,22 @@
 ## Welcome to Lesson 2
 
+### 0. Know when GitHub is the best choice in the first place
+
+| Feature | GitHub        | Native Google Docs | MS Word via DropBox  | MS Word via Box  |
+|:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
+|Concurrent, collaborative editing	| +	| +++| 	---| 	---|
+|Serial collaborative editing	| +++	| +++	| ++	| +|
+|Typesetting and formatting `*`	| ++	| ++	| +++	| +++|
+|Version control	| +++	| ++	| +	| +|
+|View either clean or marked up versions without necessarily accepting changes	| +++	| -	| ++	| ++|
+|Compare any two versions | 	+++	| -| 	-| 	-|
+|Public attribution of specific contributors| 	+++	| -	| -| 	-|
+|R/W access control at team level| 	+++| 	-| 	-| 	-|
+|R/W access control at individual level	| -	| +++	| +++	| +++|
+
+`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). 
+Combinations of technologies can work well (eg. link a google doc to a github issue) if you understand their limitations.
+
 ### 1. How to create Issues that are clear and useful
 **Who:**
 Any github user.
@@ -120,6 +137,6 @@ More complex queries are also possible.
 ### 7. Good to know miscellanea
 - It is possible but not obvious how to rename a repository. https://help.github.com/articles/renaming-a-repository/
 - Certain things you think you *should* be able to do from the UI, you just can not:
-  - Delete a whole directory using the UI (this can only be done using the desktop app, or commandline).
+  - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or commandline).
 
 ### [Back to Home](../index.md)
