@@ -93,5 +93,15 @@ You can link documents and files by:
 ### 4. How to create teams of users for specific tasks
 
 Further reading: [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
+[Issue query](https://help.github.com/articles/searching-issues/)
+
+### 5. Querying your issues
+Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
+- All issues assigned to me: https://github.com/issues/assigned
+- All issues on which I am @ mentioned: https://github.com/issues/mentioned
+
+More complex queries are also possible.
+- All issues either assigned to me OR on which I have commented OR am mentioned: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+
+- All issues in all repos within an organization: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library
 
 ### [Back to Home](../index.md)
