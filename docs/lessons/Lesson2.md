@@ -1,14 +1,11 @@
-# Welcome to Lesson 2
+## Welcome to Lesson 2
 
-## Permissions and Teams
+### How to create Issues that are clear and useful
 
-## Repos, Versions, and Commits
+### How to organize issues into Projects and Milestones
 
-## Gitter
+### How to assign issues to people, use direct @ mentions, link documents
 
-## Make your own GitHub Pages website
-
-## Branches and Forks for Predictable Collaboration
+### How to create teams of users for specific tasks
 
 ### [Back to Home](../index)
-xx
