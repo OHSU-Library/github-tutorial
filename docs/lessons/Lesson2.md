@@ -1,6 +1,8 @@
 ## Welcome to Lesson 2
 
-### 0. Know when GitHub is the best choice in the first place
+### 0. Know when GitHub is the best choice:
+
+### ... for your documents
 
 | Feature | GitHub        | Native Google Docs | MS Word via DropBox  | MS Word via Box  |
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
@@ -16,6 +18,17 @@
 
 `*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). 
 Combinations of technologies can work well (eg. link a google doc to a github issue) if you understand their limitations.
+
+### ... for your projects
+
+### Strengths:
+- Free for public repositories
+- Transparency fosters higher quality of contributions / discourse
+- Best suited for managing generation, maintenance, deployment of digital-artifact based projects (eg. code, data, and documentation, rather than say building a giant lego car).
+- Tight integration with communication systems (eg. Gitter, Slack, Email).
+
+### Weaknesses:
+- Provides less detailed dependency control as compared with other platforms such as JIRA or MS project. Such tools are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm and that ALSO the buy-in of the team. For *most* projects, I (Julie) have found GitHub, in combination with google docs, to be ample tool for the PM job.
 
 ### 1. How to create Issues that are clear and useful
 **Who:**
