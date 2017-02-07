@@ -66,13 +66,13 @@ How to create an issue in github:
 
 - In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry 
 
-** Link documents**
+**Link documents**
 
 - You can link documents and files by copy and pasting URL or you can attach files by dragging and dropping. 
 
 **_Before saving your changes, you can preview the comment to ensure the correct formatting._**
 
-** Your turn:**
+**Your turn:**
 
 - On the ticket you previously commented on, assign the ticket to Nicole, mention Julie and provide attach a picture of a cat (either a picture you grab from the internet, or attach a picture you have saved on your computer)
 
