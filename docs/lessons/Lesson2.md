@@ -1,12 +1,12 @@
 ## Welcome to Lesson 2
-- [when to use github](When-to-use-GitHub)
-- [create issues](create-issues)
-- [assign issues](assign-issues)
-- [communicate about issues](communicate-about-issues)
-- [organize issues](organize-issues)
-- [teams](teams)
-- [help](help)
-- [miscellany](miscellany)
+- [Deciding when GitHub is the right choice for your project](#When-to-use-GitHub)
+- [How to create issues](#create-issues)
+- [How to assign issues](#assign-issues)
+- [How to communicate about issues](#communicate-about-issues)
+- [How to organize issues](#organize-issues)
+- [How to assign teams](#teams)
+- [Where to go when you need help](#help)
+- [Miscellany that is good to know](#miscellany)
 
 ### When to use GitHub
 
