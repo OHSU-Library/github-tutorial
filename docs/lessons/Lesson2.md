@@ -33,15 +33,21 @@ How to create an issue in github:
 
 - Follow the instructions above to create a ticket about a hypothetical issue in the library (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
 
-### 2.1 How to assign issues to people, use direct @ mentions, link documents
+### 2.1 How to assign issues to people, add labels, use direct @ mentions, link documents
 
 **Assign issues to people**
 
-- On the top right hand side, click "Assignees".
+- On the top right hand side, click "Assignees"
 
 - You can assign issues to yourself or other people who are part of the repository. 
 
 - Start typing the letters of their name for autosuggest
+
+**Add labels**
+
+- On the top right hand side, click "Labels"
+
+- Assign a relevant label to your ticket
 
 **Use direct @ mentions**
 
@@ -57,7 +63,7 @@ How to create an issue in github:
 
 **Your turn:**
 
-- On the ticket you previously commented on, assign the ticket to Nicole, mention Julie and provide attach a picture of a cat (either a picture you grab from the internet, or attach a picture you have saved on your computer)
+- On the ticket you previously commented on, assign the ticket to Nicole, add a label for an enhancement, mention Julie, and attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
 
 ### 2.2 How to comment on tickets
 
