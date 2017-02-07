@@ -10,10 +10,11 @@
 
 ### When to use GitHub 
 [Back to top](#welcome-to-lesson-2)
+It can be tricky to figure out what technologies to use for what kinds of purposes. Below is an oversimplification, but hopefully useful.
 
-### ... for your documents
+#### ... for managing versions your documents
 
-| Feature | GitHub        | Native Google Docs | MS Word via DropBox  | MS Word via Box  |
+| Feature | GitHub        | Native Google Docs | MS Office via DropBox  | MS Office via Box  |
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
 |Concurrent, collaborative editing	| +	| +++| 	---| 	---|
 |Serial collaborative editing	| +++	| +++	| ++	| +|
@@ -25,11 +26,11 @@
 |R/W access control at team level| 	+++| 	-| 	-| 	-|
 |R/W access control at individual level	| -	| +++	| +++	| +++|
 
-`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). I've not used "Word Online" at all so reserve judgement for how this might fit in.
+`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). I've not used "Office Online" at all so reserve judgement for how this might fit in. 
 
 Combinations of technologies can work well (eg. link a google doc to a github issue) if you understand their limitations.
 
-### ... for your project management tracking
+#### ... for your project management tracking
 
 | Feature | GitHub issues       | [MS Project](https://products.office.com/en-us/project/compare-microsoft-project-management-software) | [JIRA](https://www.atlassian.com/software/jira)  | [Trello](http://trello.com) |
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
