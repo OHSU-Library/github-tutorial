@@ -39,9 +39,9 @@ How to create an issue in github:
 
 - On the top right hand side, click "Assignees"
 
-- You can assign issues to yourself or other people who are part of the repository. 
+- You can assign issues to yourself or other people who are part of the repository 
 
-- Start typing the letters of their name for autosuggest
+- Start typing the letters of their name for autosuggest. You can either type their name or github handle.
 
 **Add labels**
 
@@ -53,11 +53,19 @@ How to create an issue in github:
 
 - You can mention someone in a ticket without assigning it to them
 
-- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry 
+- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry. You can either type their name or github handle.
 
 **Link documents**
 
 - You can link documents and files by copy and pasting URL or you can attach files by dragging and dropping. 
+
+**Link your ticket to another ticket**
+
+- If your ticket is a duplicate or related to another ticket, you can reference another ticket. 
+
+- Type # and you will see a list of other tickets in that repo.
+
+- Type #TicketNumber and that will link to the other ticket. For example #10 will link to (this ticket[https://github.com/OHSU-Library/github-tutorial/issues/10] 
 
 **_Before saving your changes, you can preview the comment to ensure the correct formatting._**
 
