@@ -48,6 +48,10 @@ In addition to the high-level Lessons, we've prepared some more detailed descrip
 [HowTos](howto)
 
 #### Resources
+- http://www.slideshare.net/annegentle/git-and-github-for-documentation
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- http://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners
+- https://www.asis.org/rdap/?_ga=1.108925314.1414174343.1479483608
 
 - [Frequently Asked Questions](FAQ)
 - [Julie's Original Content Doc](content)
