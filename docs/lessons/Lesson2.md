@@ -105,4 +105,5 @@ On the ticket you previously created:
 
 ### How to create teams of users for specific tasks
 
+Further reading: [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
 ### [Back to Home](../index)
