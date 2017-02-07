@@ -33,14 +33,27 @@ How to create an issue in github:
 
 - [ ] Click Submit new issue
 
+**Your turn:**
+
+- Follow the instructions above to create a ticket about a hypothetical issue in the library (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
+
+### 2.1 How to comment on tickets
+
+- [ ] Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
+
+- [ ] Scroll to the bottom of the ticket, and add content in the "Leave a comment" field
+
+- [ ] Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
+
+- Preview your text to see how your formatting looks
 
 **Your turn:**
 
-- Follow the instructions above to create a ticket about 
+- Follow the instructions above to comment on a ticket that someone created
 
-### 2. How to organize issues into Projects and Milestones
+### 2.2 How to assign issues to people, use direct @ mentions, link documents
 
-### How to assign issues to people, use direct @ mentions, link documents
+### 3. How to organize issues into Projects and Milestones
 
 ### How to create teams of users for specific tasks
 
