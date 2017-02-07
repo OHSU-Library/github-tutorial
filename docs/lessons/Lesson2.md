@@ -88,4 +88,4 @@ You can link documents and files by:
 
 Further reading: [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
 
-### [Back to Home](../index)
+### [Back to Home](../index.md)
