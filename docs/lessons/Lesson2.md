@@ -26,11 +26,11 @@ Combinations of technologies can work well (eg. link a google doc to a github is
 |Free	| +++	| -- | ---| +++ |
 |Transparent/attribution-friendly	| +++	| +	| ---	| + |
 |Suited to digital-artifact based projects	| +++	| +++	| - | ++ |
-|Tight integration w chat	| +++	| +	| - |
-|Detailed dependency view/control| + | +++ |+++|
-|Powerful but not overwhelming |+++| + | -- | +++ |
+|Tight integration w chat systems	| +++	| ?	| ? | ? |
+|Detailed dependency view/control| + | +++ |+++| ? |
+|Powerful but not overwhelming/feature-bloated |+++| + | -- | +++ |
 
-TL;DR is that MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm and that ALSO the buy-in of the team. For *most* projects, I (Julie) have found GitHub, in combination with google docs, to be ample tool for the PM job. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options.
+TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm and that ALSO the buy-in of the team for a lot of organizational overhead. For *most* projects, I have found GitHub, in combination with google docs, to be ample tool for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options.
 
 ### 1. How to create Issues that are clear and useful
 **Who:**
@@ -51,6 +51,7 @@ How to create an issue in github:
 - Write an informative title
 - Write a detailed explanation of your issue
 - Indicate whether the issue is a task, enhancemnet, or bug
+- If you know the tasks that are needed to accomplish it, detail these with the use of `- [ ] ` markdown syntax before each bullet. The status of the tasks in an issue (eg. https://github.com/OHSU-Library/github-tutorial/issues/12) will then be reflected in any summary view. Eg. https://github.com/OHSU-Library/github-tutorial/issues
 - Click Submit new issue
 - Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).
 
