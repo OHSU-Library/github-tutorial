@@ -50,14 +50,14 @@ How to create an issue in github:
 - Click "New Issue"
 - Write an informative title
 - Write a detailed explanation of your issue
-- Indicate whether the issue is a task, enhancemnet, or bug
-- If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. The status of the tasks in an issue (eg. https://github.com/OHSU-Library/github-tutorial/issues/12) will then be reflected in any summary view. Eg. https://github.com/OHSU-Library/github-tutorial/issues
+- Indicate whether the issue is a task, enhancement, or bug
+- If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. Note, you can also add sub-tasks by clicking the 'add a task list' button in the tool bar. The status of the tasks in an issue (eg. [https://github.com/OHSU-Library/github-tutorial/issues/12](https://github.com/OHSU-Library/github-tutorial/issues/12)) will then be reflected in any summary view. Eg. [https://github.com/OHSU-Library/github-tutorial/issues](https://github.com/OHSU-Library/github-tutorial/issues). 
 - Click Submit new issue
 - Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).
 
 **Your turn:**
 
-Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to the OHSU Library website, or a request for welcome signs in the library)
+Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to the OHSU Library website, or a request for welcome signs in the library) that includes a sub-task list.
 
 ### 2.1 How to assign issues to people, add labels
 
