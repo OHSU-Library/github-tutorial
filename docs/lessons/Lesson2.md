@@ -10,28 +10,25 @@ Any github user.
 **How:**
 
 How to create an issue in github:
-
-- [ ] Navigate to your repository where you want to create a ticket
-
+- Navigate to your repository where you want to create a ticket
 - https://github.com/
-
 - On the right hand side, you should see a box with "your repositories"
 
-- [ ] Click on your repository of interest
+- Click on your repository of interest
 
-- [ ] Click "issues"
+- Click "issues"
 
-- [ ] Click "New Issue"
+- Click "New Issue"
 
-- [ ] Write an informative title
+- Write an informative title
 
-- [ ] Write a detailed explanation of your issue
+- Write a detailed explanation of your issue
 
-- [ ] Assign someone
+- Assign someone
 
-- [ ] Add a label
+- Add a label
 
-- [ ] Click Submit new issue
+- Click Submit new issue
 
 **Your turn:**
 
@@ -39,11 +36,11 @@ How to create an issue in github:
 
 ### 2.1 How to comment on tickets
 
-- [ ] Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
+- Click on an issue in the ticket tracker in the OHSU-Library/github-tutorial repo
 
-- [ ] Scroll to the bottom of the ticket, and add content in the "Leave a comment" field
+- Scroll to the bottom of the ticket, and add content in the "Leave a comment" field
 
-- [ ] Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
+- Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
 
 - Preview your text to see how your formatting looks
 
