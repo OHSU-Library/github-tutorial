@@ -31,11 +31,20 @@ Note - you can also download gitter to your desktop and chat through the app
 
 It can be tricky to figure out what technologies to use for what kinds of purposes. The table below is a simplified matrix comparing different systems for collaboratively working on documents and versions.
 
+Legend:
+````
++++ Purpose-built
+++ Reasonably suited
++ Barely suited
+- not supported
+--- Disastrous implications
+````
+
 #### When to use GitHub for managing versions your (text or data) documents
 
 | Feature | GitHub        | Native Google Docs | MS Office via DropBox  | MS Office via Box  |
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
-|Concurrent, collaborative editing	| +	| +++| 	---| 	---|
+|Concurrent, collaborative editing	| +	| +++| 	--| 	---|
 |Serial collaborative editing	| +++	| +++	| ++	| +|
 |Typesetting and formatting `*`	| ++	| ++	| +++	| +++|
 |Version control	| +++	| ++	| +	| +|
@@ -45,7 +54,7 @@ It can be tricky to figure out what technologies to use for what kinds of purpos
 |R/W access control at team level| 	+++| 	-| 	-| 	-|
 |R/W access control at individual level	| -	| +++	| +++	| +++|
 
-`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). I've not used "Office Online" at all so reserve judgement for how this might fit in.
+`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). I've not used "Office Online" at all so reserve judgement for how this might fit in. Using Google Drive or Box to share collaboratively-edited files (eg. Office files) has terrible implications for tight deadlines: there are currently no notifications in case of version conflict, AND speed of syncrhonization is very spotty (sometimes as long as 30 minutes in our experience).
 
 Combinations of technologies can work synergistically (eg. link a google doc to a github issue) if you understand their strengths and limitations.
 
