@@ -136,6 +136,8 @@ You can link documents and files by:
 ### Organize issues
 [Back to top](#welcome-to-lesson-2)
 
+**Milestones**
+
 - To create a milestone, navigate to the issues page in your repository
 - Next to the search field, click **Milestones**
 - Click **New Milestone** to create a new milestone, click **Edit** to edit an existing one
@@ -143,13 +145,37 @@ You can link documents and files by:
 - Set a due date for the milestone (note that specific tasks can not be formally assigned due dates, though you can mention a desired due date in the narrative text of a ticket.
 - Each ticket can only be associated to ONE milestone, however it can have as many labels as appropriate.
 
- - On GitHub, navigate to the main page of the repository.
- - Issues and pull requests tab selectionUnder your repository name, click  Issues or  Pull requests.
- - Issues Labels buttonNext to the search field, click Labels.
+**New Labels**
+
+ - On GitHub, navigate to the main page of the repository Issues and pull requests tab selection
+ - Under your repository name, click  Issues (or  Pull requests)
+ - Click Labels button next to the search field
  - Click New Label to create a new label, or click Edit to edit an existing one.
- - Issues new label textboxIn the text box, type your new label name.
- - Issues new label textboxSelect a color for the label from the color bar. You can customize this color by editing the hexadecimal number above the color bar.
+ - In the text box, type your new label name.
+ - Select a color for the label from the color bar. You can customize this color by editing the hexadecimal number above the color bar. For a list of hexadecimal numbers see [HTML color codes](http://htmlcolorcodes.com/)
  - Click Create Label to save the new label.
+ 
+**Your turn**
+
+Create a new milestone and a new label, and add the milestone and label to an existing ticket.
+
+**Projects**
+
+- Projects is a lot like Trello, it uses cards on a list that you can name and organize as you see fit.
+- You can create as many projects within a repository as you like
+
+To create project:
+
+- Click on Projects
+- Click New Project
+- Name the project
+- Write a description of the project
+- Create columns and give them names
+- Add 'cards' to the columns
+
+**Your turn**
+
+Create a new project and add columns and add cards to the columns.
 
 ### Teams 
 [Back to top](#welcome-to-lesson-2)
