@@ -133,8 +133,9 @@ You can link documents and files by:
 - Attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
 - Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
-### Organize issues by creating Milestones
+### Organize issues
 [Back to top](#welcome-to-lesson-2)
+
 - To create a milestone, navigate to the issues page in your repository
 - Next to the search field, click **Milestones**
 - Click **New Milestone** to create a new milestone, click **Edit** to edit an existing one
@@ -158,6 +159,7 @@ Further reading: [Mastering Issues (10 min read)](https://guides.github.com/feat
 
 ### Query issues 
 [Back to top](#welcome-to-lesson-2)
+
 Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
 
 - All issues assigned to me: https://github.com/issues/assigned
@@ -170,6 +172,7 @@ More complex queries are also possible.
 
 ### Help 
 [Back to top](#welcome-to-lesson-2)
+
 If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. https://github.com/isaacs/github/issues/. However, this is a rogue repo and a bit contentious.
 
  - GitHub kinda monitors https://github.com/isaacs/github/issues/ but not with any rigor.
