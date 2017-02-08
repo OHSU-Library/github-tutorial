@@ -188,26 +188,26 @@ Further reading: [Mastering Issues (10 min read)](https://guides.github.com/feat
 
 Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
 
-- All issues assigned to me: https://github.com/issues/assigned
-- All issues on which I am @ mentioned: https://github.com/issues/mentioned
+- All issues assigned to me: [https://github.com/issues/assigned](https://github.com/issues/assigned)
+- All issues on which I am @ mentioned: [https://github.com/issues/mentioned](https://github.com/issues/mentioned)
 
 More complex queries are also possible.
 
-- All issues either assigned to me OR on which I have commented OR am mentioned: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+
-- All issues in all repos within an organization: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library
+- All issues either assigned to me OR on which I have commented OR am mentioned: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+)
+- All issues in all repos within an organization: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library)
 
 ### Help 
 [Back to top](#welcome-to-lesson-2)
 
 If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. https://github.com/isaacs/github/issues/. However, this is a rogue repo and a bit contentious.
 
- - GitHub kinda monitors https://github.com/isaacs/github/issues/ but not with any rigor.
- - To be safe, contact GitHub directly at https://github.com/contact, but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
+ - GitHub kinda monitors [https://github.com/isaacs/github/issues/](https://github.com/isaacs/github/issues/) but not with any rigor.
+ - To be safe, contact GitHub directly at [https://github.com/contact](https://github.com/contact), but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
  
 ### Miscellany 
 [Back to top](#welcome-to-lesson-2)
 
-- It is possible but not obvious how to rename a repository. https://help.github.com/articles/renaming-a-repository/
+- It is possible but not obvious how to rename a repository. [https://help.github.com/articles/renaming-a-repository/](https://help.github.com/articles/renaming-a-repository/)
 - Certain things you think you *should* be able to do from the UI, you just can not:
   - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or commandline).
 
