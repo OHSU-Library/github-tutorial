@@ -1,4 +1,5 @@
 ## Welcome to Lesson 2
+- [Gitter](#Gitter)
 - [Deciding when GitHub is the right choice for your project](#When-to-use-GitHub)
 - [How to create issues](#create-issues)
 - [How to assign issues](#assign-issues)
@@ -7,6 +8,22 @@
 - [How to assign teams](#teams)
 - [Where to go when you need help](#help)
 - [Miscellany that is good to know](#miscellany)
+
+### Gitter
+[Back to top](#welcome-to-lesson-2)
+
+[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
+
+**Start using Gitter**
+
+- Go to the [gitter website](https://gitter.im/)
+- Click on the top right SIGN IN TO START TALKING
+- Sign in with github
+- Click on the mangifying glass on the left hand side to search
+- Search for OHSU-Library
+- Click on the room and join the chat
+
+Note - you can also download gitter to your desktop and chat through the app
 
 ### When to use GitHub 
 [Back to top](#welcome-to-lesson-2)
