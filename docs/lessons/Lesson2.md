@@ -180,7 +180,7 @@ Create a new project and add columns and add cards to the columns.
 ### Teams 
 [Back to top](#welcome-to-lesson-2)
 
-
+See this [help article on creating teams](https://help.github.com/articles/creating-a-team/)
 
 ### Query issues 
 [Back to top](#welcome-to-lesson-2)
