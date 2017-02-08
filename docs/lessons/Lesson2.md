@@ -1,6 +1,6 @@
 ## Welcome to Lesson 2
-- [Gitter](#Gitter)
-- [Deciding when GitHub is the right choice for your project](#When-to-use-GitHub)
+- [Gitter](#gitter)
+- [Deciding when GitHub is the right choice for your project](#when-to-use-github)
 - [How to create issues](#create-issues)
 - [How to assign issues](#assign-issues)
 - [How to communicate about issues](#communicate-about-issues)
