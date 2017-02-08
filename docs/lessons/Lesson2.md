@@ -5,6 +5,7 @@
 - [How to assign issues](#assign-issues)
 - [How to communicate about issues](#communicate-about-issues)
 - [How to organize issues](#organize-issues)
+- [How to query issues](#query-issues)
 - [How to assign teams](#teams)
 - [Where to go when you need help](#help)
 - [Miscellany that is good to know](#miscellany)
@@ -194,15 +195,16 @@ To create project:
 
 Create a new project and add columns and add cards to the columns.
 
-### Teams 
-[Back to top](#welcome-to-lesson-2)
-
-See this [help article on creating teams](https://help.github.com/articles/creating-a-team/)
 
 ### Query issues 
 [Back to top](#welcome-to-lesson-2)
 
 Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
+
+### Teams 
+[Back to top](#welcome-to-lesson-2)
+
+See this [help article on creating teams](https://help.github.com/articles/creating-a-team/)
 
 - All issues assigned to me: [https://github.com/issues/assigned](https://github.com/issues/assigned)
 - All issues on which I am @ mentioned: [https://github.com/issues/mentioned](https://github.com/issues/mentioned)
