@@ -4,9 +4,16 @@ The [OHSU Library Ontology Development Group](http://www.ohsu.edu/xd/education/l
 
 Our goal is to help participants set up their GitHub accounts and become comfortable with the concepts, terminology, and capabilities of GitHub and how it can enhance an individual or team effort. We expect that most of the features we will demonstrate can be performed via a web browser and will not require a desktop computer.
 
-### Caveat: Version 1.0 of This Tutorial
+- [Caveats](#caveats)
+- [Goals](#Goals)
+- [Non-goals](#Non-goals)
+- [Lesson plan](#Lesson-plan)
+- [How-Tos](#How-Tos)
+- [Resources](#Additional-Resources)
 
-We hope to learn through feedback from the tutorial participants, and to use this to improve the tutorial materials. All of the content for this course is being created and shared via GitHub, where we intend to encourage participants to collaborate and improve the content, while learning and exercising GitHub-based techniques.
+## Caveats
+
+This is version 1.0 of This Tutorial. We hope to learn through feedback from the tutorial participants, and to use this to improve the tutorial materials. All of the content for this course is being created and shared via GitHub, where we intend to encourage participants to collaborate and improve the content, while learning and exercising GitHub-based techniques.
 
 ## Goals
 
@@ -47,7 +54,7 @@ In addition to the high-level Lessons, we've prepared some more detailed descrip
 
 [HowTos](howto)
 
-#### Resources
+#### Additional Resources
 - http://www.slideshare.net/annegentle/git-and-github-for-documentation
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - http://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners
