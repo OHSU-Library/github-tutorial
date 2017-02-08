@@ -9,6 +9,7 @@
 - [How to assign teams](#teams)
 - [Where to go when you need help](#help)
 - [Miscellany that is good to know](#miscellany)
+- [Edit this page in Github](#edit-this-lesson)
 
 ### Gitter
 [Back to top](#welcome-to-lesson-2)
@@ -230,5 +231,8 @@ If you have an issue with GitHub itself (bug, feature request, etc) where do you
 - It is possible but not obvious how to rename a repository. [https://help.github.com/articles/renaming-a-repository/](https://help.github.com/articles/renaming-a-repository/)
 - Certain things you think you *should* be able to do from the UI, you just can not:
   - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or commandline).
+  
+  ### Edit this lesson
+  To make suggestions to this lesson, go to the [markdown file in the github repository](https://github.com/OHSU-Library/github-tutorial/blob/master/docs/lessons/Lesson2.md) and click the "edit" icon.
 
 ### [Back to Home](../index.md)
