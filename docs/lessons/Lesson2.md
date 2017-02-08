@@ -32,7 +32,7 @@ Note - you can also download gitter to your desktop and chat through the app
 
 It can be tricky to figure out what technologies to use for what kinds of purposes. Below is an oversimplification, but hopefully useful.
 
-#### ... for managing versions your documents
+#### When to use GitHub for managing versions your (text or data) documents
 
 | Feature | GitHub        | Native Google Docs | MS Office via DropBox  | MS Office via Box  |
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
@@ -50,7 +50,7 @@ It can be tricky to figure out what technologies to use for what kinds of purpos
 
 Combinations of technologies can work well (eg. link a google doc to a github issue) if you understand their limitations.
 
-#### ... for your project management tracking
+#### When to use GitHub for your tracking and managing your projects
 
 | Feature | GitHub issues       | [MS Project](https://products.office.com/en-us/project/compare-microsoft-project-management-software) | [JIRA](https://www.atlassian.com/software/jira)  | [Trello](http://trello.com) |
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
