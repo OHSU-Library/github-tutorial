@@ -12,7 +12,6 @@
 - [Edit this page in Github](#edit-this-lesson)
 
 ### Gitter
-[Back to top](#welcome-to-lesson-2)
 
 [Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
 
@@ -27,10 +26,10 @@
 
 Note - you can also download gitter to your desktop and chat through the app
 
-### When to use GitHub 
+### When to use GitHub
 [Back to top](#welcome-to-lesson-2)
 
-It can be tricky to figure out what technologies to use for what kinds of purposes. Below is an oversimplification, but hopefully useful.
+It can be tricky to figure out what technologies to use for what kinds of purposes. The table below is a simplified matrix comparing different systems for collaboratively working on documents and versions.
 
 #### When to use GitHub for managing versions your (text or data) documents
 
@@ -46,9 +45,9 @@ It can be tricky to figure out what technologies to use for what kinds of purpos
 |R/W access control at team level| 	+++| 	-| 	-| 	-|
 |R/W access control at individual level	| -	| +++	| +++	| +++|
 
-`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). I've not used "Office Online" at all so reserve judgement for how this might fit in. 
+`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). I've not used "Office Online" at all so reserve judgement for how this might fit in.
 
-Combinations of technologies can work well (eg. link a google doc to a github issue) if you understand their limitations.
+Combinations of technologies can work synergistically (eg. link a google doc to a github issue) if you understand their strengths and limitations.
 
 #### When to use GitHub for your tracking and managing your projects
 
@@ -57,15 +56,16 @@ Combinations of technologies can work well (eg. link a google doc to a github is
 |Free	| +++	| -- | ---| +++ |
 |Transparent/attribution-friendly	| +++	| +	| ---	| + |
 |Suited to digital-artifact based projects `**`	| +++	| +++	| - | ++ |
+|Tight integration w GitHub	| +++	| +	| + | + |
 |Tight integration w chat systems	| +++	| ?	| ? | ? |
 |Detailed dependency view/control| + | +++ |+++| ? |
 |Powerful but not overwhelming/feature-bloated |+++| + | -- | +++ |
 
-TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm AND that have the buy-in of the team for a lot of organizational overhead. For *most* projects in academia, I have found GitHub, in combination with google docs, to be ample tool for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options for your use case.
+TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm AND that have the buy-in of the team for a lot of organizational overhead. For *most* projects in academia, I have found GitHub, in combination with Google Docs, to be ample tool for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options for your use case.
 
 `**` GitHub is not per se *poorly* suited to managing projects that are not digital artifact based, but there's less of a marginal advantage that makes it a clear win over other free tools like Trello. The caveat is that when all of someone's projects, regardless of nature, are on GitHub, their competing priorities are easier to spot and tackle.
 
-### Create issues 
+### Create issues
 [Back to top](#welcome-to-lesson-2)
 
 **Why:**
@@ -73,7 +73,7 @@ TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved fo
 
 **How:**
 
-How to create an issue in github:
+How to create an issue in GitHub:
 
 - In [github.com](https://github.com/) navigate to the repository where you want to create a ticket:
  - On the right hand side, you should see a box with "your repositories"
@@ -83,7 +83,7 @@ How to create an issue in github:
 - Write an informative title
 - Write a detailed explanation of your issue
 - Indicate whether the issue is a task, enhancement, or bug
-- If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. Note, you can also add sub-tasks by clicking the 'add a task list' button in the tool bar. The status of the tasks in an issue (eg. [https://github.com/OHSU-Library/github-tutorial/issues/12](https://github.com/OHSU-Library/github-tutorial/issues/12)) will then be reflected in any summary view. Eg. [https://github.com/OHSU-Library/github-tutorial/issues](https://github.com/OHSU-Library/github-tutorial/issues). 
+- If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. Note, you can also add sub-tasks by clicking the 'add a task list' button in the tool bar. The status of the tasks in an issue (eg. [https://github.com/OHSU-Library/github-tutorial/issues/12](https://github.com/OHSU-Library/github-tutorial/issues/12)) will then be reflected in any summary view. Eg. [https://github.com/OHSU-Library/github-tutorial/issues](https://github.com/OHSU-Library/github-tutorial/issues).
 - Click Submit new issue
 - Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).
 
@@ -91,13 +91,13 @@ How to create an issue in github:
 
 Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to the OHSU Library website, or a request for welcome signs in the library) that includes a sub-task list.
 
-### Assign issues 
+### Assign issues
 [Back to top](#welcome-to-lesson-2)
 
 **Assign issues to people**
 
 - On the top right hand side, click "Assignees"
-- You can assign issues to yourself or other people who are part of the repository 
+- You can assign issues to yourself or other people who are part of the repository
 - In the box, start typing type their name or github handle.
 
 **Add labels**
@@ -112,12 +112,12 @@ On the ticket you previously created:
 - Assign the ticket to Nicole
 - Add a label for an enhancement
 
-### Communicate about issues 
+### Communicate about issues
 [Back to top](#welcome-to-lesson-2)
 
 **Comment on issues**
 
-- Click on an issue in the issue tracker in the OHSU-Library/github-tutorial repo
+- Click on an issue in the issue tracker in the [OHSU-Library/github-tutorial](https://github.com/OHSU-Library/github-tutorial) repo
 - Scroll to the bottom of the issue, and add content in the "Leave a comment" field
 - Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
 - Preview your text to see how your formatting looks
@@ -133,7 +133,7 @@ On the ticket you previously created:
 You can link documents and files by:
 
 - copy and pasting URL
-- you can attach files by dragging and dropping. 
+- you can attach files by dragging and dropping.
 - You can link one issue to another in the same repo by typing '#' followed by the title of the ticket
 - This approach also works across repos but you need to use the full URL (no autocomplete available). Doing this will also cause the referent issue to display that it has been referenced.
 
@@ -147,7 +147,7 @@ You can link documents and files by:
 
 **Your turn:**
 
-- Follow the instructions above to comment on a ticket that someone created. 
+- Follow the instructions above to comment on a ticket that someone created.
 - Mention Julie
 - Attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
 - Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
@@ -173,7 +173,7 @@ You can link documents and files by:
  - In the text box, type your new label name.
  - Select a color for the label from the color bar. You can customize this color by editing the hexadecimal number above the color bar. For a list of hexadecimal numbers see [HTML color codes](http://htmlcolorcodes.com/)
  - Click Create Label to save the new label.
- 
+
 **Your turn**
 
 Create a new milestone and a new label, and add the milestone and label to an existing ticket.
@@ -197,12 +197,12 @@ To create project:
 Create a new project and add columns and add cards to the columns.
 
 
-### Query issues 
+### Query issues
 [Back to top](#welcome-to-lesson-2)
 
 Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
 
-### Teams 
+### Teams
 [Back to top](#welcome-to-lesson-2)
 
 See this [help article on creating teams](https://help.github.com/articles/creating-a-team/)
@@ -217,22 +217,26 @@ More complex queries are also possible.
 
 Further reading on [Issue querys](https://help.github.com/articles/searching-issues/)
 
-### Help 
+### Help
 [Back to top](#welcome-to-lesson-2)
 
 If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. https://github.com/isaacs/github/issues/. However, this is a rogue repo and a bit contentious.
 
- - GitHub kinda monitors [https://github.com/isaacs/github/issues/](https://github.com/isaacs/github/issues/) but not with any rigor.
- - To be safe, contact GitHub directly at [https://github.com/contact](https://github.com/contact), but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
- 
-### Miscellany 
+- You may find the answers you seek in  [StackOverflow](http://stackoverflow.com/questions/tagged/github), although it is primarily geared towards programmers.
+- GitHub kinda monitors [https://github.com/isaacs/github/issues/](https://github.com/isaacs/github/issues/) but not with any rigor.
+- To be safe, contact GitHub directly at [https://github.com/contact](https://github.com/contact), but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
+
+### Miscellany
+
 [Back to top](#welcome-to-lesson-2)
 
 - It is possible but not obvious how to rename a repository. [https://help.github.com/articles/renaming-a-repository/](https://help.github.com/articles/renaming-a-repository/)
 - Certain things you think you *should* be able to do from the UI, you just can not:
   - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or commandline).
-  
-  ### Edit this lesson
-  To make suggestions to this lesson, go to the [markdown file in the github repository](https://github.com/OHSU-Library/github-tutorial/blob/master/docs/lessons/Lesson2.md) and click the "edit" icon.
+
+### Edit this lesson
+
+To make suggestions to this lesson, go to the [markdown file in the github repository](https://github.com/OHSU-Library/github-tutorial/blob/master/docs/lessons/Lesson2.md) and click the "edit" icon.
 
 ### [Back to Home](../index.md)
+
