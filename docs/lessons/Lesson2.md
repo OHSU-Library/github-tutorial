@@ -133,8 +133,11 @@ You can link documents and files by:
 - Attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
 - Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
 
-### Organize issues 
+### Organize issues by creating Milestones
 [Back to top](#welcome-to-lesson-2)
+- To create a milestone, navigate to the issues page in your repository
+- Next to the search field, click **Milestones**
+- Click **New Milestone** to create a new milestone, click **Edit** to edit an existing one
 - Create a milestone that is broad enough to be meaningful, but specific enough to be actionable.
 - Set a due date for the milestone (note that specific tasks can not be formally assigned due dates, though you can mention a desired due date in the narrative text of a ticket.
 - Each ticket can only be associated to ONE milestone, however it can have as many labels as appropriate.
@@ -156,21 +159,25 @@ Further reading: [Mastering Issues (10 min read)](https://guides.github.com/feat
 ### Query issues 
 [Back to top](#welcome-to-lesson-2)
 Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
+
 - All issues assigned to me: https://github.com/issues/assigned
 - All issues on which I am @ mentioned: https://github.com/issues/mentioned
 
 More complex queries are also possible.
+
 - All issues either assigned to me OR on which I have commented OR am mentioned: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+
 - All issues in all repos within an organization: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library
 
 ### Help 
 [Back to top](#welcome-to-lesson-2)
 If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. https://github.com/isaacs/github/issues/. However, this is a rogue repo and a bit contentious.
+
  - GitHub kinda monitors https://github.com/isaacs/github/issues/ but not with any rigor.
  - To be safe, contact GitHub directly at https://github.com/contact, but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
  
 ### Miscellany 
 [Back to top](#welcome-to-lesson-2)
+
 - It is possible but not obvious how to rename a repository. https://help.github.com/articles/renaming-a-repository/
 - Certain things you think you *should* be able to do from the UI, you just can not:
   - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or commandline).
