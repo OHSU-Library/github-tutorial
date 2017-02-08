@@ -54,4 +54,4 @@ In addition to the high-level Lessons, we've prepared some more detailed descrip
 - https://www.asis.org/rdap/?_ga=1.108925314.1414174343.1479483608
 
 - [Frequently Asked Questions](FAQ)
-- [Mastering Issues (10 min rad)](https://guides.github.com/features/issues/)
+- [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
