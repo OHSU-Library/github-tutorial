@@ -180,8 +180,7 @@ Create a new project and add columns and add cards to the columns.
 ### Teams 
 [Back to top](#welcome-to-lesson-2)
 
-Further reading: [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
-[Issue query](https://help.github.com/articles/searching-issues/)
+
 
 ### Query issues 
 [Back to top](#welcome-to-lesson-2)
@@ -195,6 +194,8 @@ More complex queries are also possible.
 
 - All issues either assigned to me OR on which I have commented OR am mentioned: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+)
 - All issues in all repos within an organization: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library)
+
+Further reading on [Issue querys](https://help.github.com/articles/searching-issues/)
 
 ### Help 
 [Back to top](#welcome-to-lesson-2)
