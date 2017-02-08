@@ -37,7 +37,7 @@ Legend:
 ++ Reasonably suited
 + Barely suited
 - not supported
---- Disastrous implications
+--- Disastrous implications when attempted
 ````
 
 #### When to use GitHub for managing versions your (text or data) documents
