@@ -54,11 +54,13 @@ In addition to the high-level Lessons, we've prepared some more detailed descrip
 
 [HowTos](howto)
 
-#### Additional Resources
-- http://www.slideshare.net/annegentle/git-and-github-for-documentation
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- http://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners
-- https://www.asis.org/rdap/?_ga=1.108925314.1414174343.1479483608
-
+### Additional Resources
 - [Frequently Asked Questions](FAQ)
+- [Git and GitHub for Documentation](http://www.slideshare.net/annegentle/git-and-github-for-documentation)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Git 101: Git and GitHub for Beginners](http://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners)
 - [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
+
+### Library-related Resources and News
+
+- [Research Data Access and Preservation Summit 2017](https://www.asis.org/rdap/?_ga=1.108925314.1414174343.1479483608)
