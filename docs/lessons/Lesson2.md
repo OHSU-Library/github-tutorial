@@ -11,6 +11,9 @@
 - [Miscellany that is good to know](#miscellany)
 - [Edit this page in Github](#edit-this-lesson)
 
+### Privacy reminder
+This tutorial is scoped for public data and communications only. If you have any questions about the suitability of these technologies for your particular project, please contact the information technology group. https://o2.ohsu.edu/information-technology-group/contact-us.cfm
+
 ### Gitter
 
 [Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
