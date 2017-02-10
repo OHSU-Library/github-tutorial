@@ -15,6 +15,9 @@ Our goal is to help participants set up their GitHub accounts and become comfort
 
 This is version 1.0 of This Tutorial. We hope to learn through feedback from the tutorial participants, and to use this to improve the tutorial materials. All of the content for this course is being created and shared via GitHub, where we intend to encourage participants to collaborate and improve the content, while learning and exercising GitHub-based techniques.
 
+#### Important note about privacy, PHI, PII
+The technologies we are covering are best suited to open initiatives and public-facing communication; sensitive or private data such as PHI must be stored using exclusively OHSU-approved technologies such as Office Online over Box. Any questions regarding what constitutes protected information and what technologies are OHSU-approved for use, must be referred to the appropriate OHSU office.
+
 ## Goals
 
 We hope that participants in the tutorial will leave with a better understanding of GitHub and its potential utility for their individual and team needs, whether these be education, software development, data curation, or project management. Specific topics we intend to cover include:
