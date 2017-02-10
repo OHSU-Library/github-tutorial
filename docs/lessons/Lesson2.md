@@ -59,11 +59,14 @@ Native Google Docs is not the same as Google Drive. These are often conflated.
 |OHSU approved for sensitive data/communications (PHI/PII) | - | - | - | +++ | -|
 
 `#` True serial collaborative editing is supported via Box, however at this time, Box does not warn users regarding who already has a document open. Consequently, using Box in the context of tight deadlines with multiple contributors requires extremely rigorous immediate communication regarding who has the lock on a document at any given moment. In our team's experience collaboratively writing grant proposals under tight deadlines, the lack of safeguards afforded by automatic notification (eg as supported by DropBox, by contrast) have led to confusion and lost effort. GitHub does not support simultaneous collaborative editing, however if editing happens to be carried out simultaneously by chance, conflicts are easy to assess and resolve.
+
 `*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). 
 
 Except in "Office Online" mode, using Google Drive or Box to share collaboratively-edited files (eg. Office files) has terrible implications for tight deadlines: there are currently no notifications in case of version conflict. In Google drive in particular, the speed of syncrhonization is very spotty (sometimes as long as 30 minutes in our experience).
 
 Combinations of technologies can work synergistically (eg. link a google doc to a github issue) if you understand their strengths and limitations.
+
+Box is the only OHSU-approved system for the storage of PHI/PII; all questions related to what constitutes PHI/PII must be referred to the appropriate OHSU office.
 
 #### When to use GitHub for your tracking and managing your projects
 
