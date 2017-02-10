@@ -40,21 +40,28 @@ Legend:
 --- Disastrous implications when attempted
 ````
 
+Note:
+Native Google Docs is not the same as Google Drive. These are often conflated.
+
 #### When to use GitHub for managing versions your (text or data) documents
 
-| Feature | GitHub        | Native Google Docs | MS Office via DropBox  | MS Office via Box  |
-|:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
-|Concurrent, collaborative editing	| +	| +++| 	--| 	---|
-|Serial collaborative editing	| +++	| +++	| ++	| +|
+| Feature | GitHub        | Native Google Docs | Office via DropBox  | Office via Box  | Office via Google Drive  |
+|:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|:--------------------:|
+|Concurrent collaborative editing	| + `#`	| +++| +++ (office online only) | +++ (office online only) | ?|
+|Serial collaborative editing	| +++	| +++	| +++	| + `#` |+ `#`|
 |Typesetting and formatting `*`	| ++	| ++	| +++	| +++|
-|Version control	| +++	| ++	| +	| +|
-|View either clean or marked up versions without necessarily accepting changes	| +++	| -	| ++	| ++|
-|Compare any two versions | 	+++	| -| 	-| 	-|
-|Public attribution of specific contributors| 	+++	| -	| -| 	-|
-|R/W access control at team level| 	+++| 	-| 	-| 	-|
-|R/W access control at individual level	| -	| +++	| +++	| +++|
+|Version control	| +++	| ++	| +	| + |
+|View either clean or marked up versions without necessarily accepting changes	| +++	| -	| +++	| +++| +++|
+|Compare any two versions | 	+++	| -| 	+| 	+| + |
+|Public attribution of specific contributors| 	+++	| -	| -| 	-|-|
+|R/W access control at team level| 	+++| 	+| 	+| 	+|+|
+|R/W access control at individual level	| -	| +++	| +++	| +++|+++|
+|OHSU approved for sensitive data/communications (PHI/PII) | - | - | - | +++ | -|
 
-`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). I've not used "Office Online" at all so reserve judgement for how this might fit in. Using Google Drive or Box to share collaboratively-edited files (eg. Office files) has terrible implications for tight deadlines: there are currently no notifications in case of version conflict, AND speed of syncrhonization is very spotty (sometimes as long as 30 minutes in our experience).
+`#` True serial collaborative editing is supported via Box, however at this time, Box does not warn users regarding who already has a document open. Consequently, using Box in the context of tight deadlines with multiple contributors requires extremely rigorous immediate communication regarding who has the lock on a document at any given moment. In our team's experience collaboratively writing grant proposals under tight deadlines, the lack of safeguards afforded by automatic notification (eg as supported by DropBox, by contrast) have led to confusion and lost effort. GitHub does not support simultaneous collaborative editing, however if editing happens to be carried out simultaneously by chance, conflicts are easy to assess and resolve.
+`*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). 
+
+Except in "Office Online" mode, using Google Drive or Box to share collaboratively-edited files (eg. Office files) has terrible implications for tight deadlines: there are currently no notifications in case of version conflict. In Google drive in particular, the speed of syncrhonization is very spotty (sometimes as long as 30 minutes in our experience).
 
 Combinations of technologies can work synergistically (eg. link a google doc to a github issue) if you understand their strengths and limitations.
 
