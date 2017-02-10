@@ -11,6 +11,10 @@
 
 GitHub itself isn't much more than a social network like Facebook or Instagram. You build a profile, upload projects to share and connect with other users by "following" their accounts. And while many users store programs and code projects, there's nothing preventing you from keeping text documents or other file types in your project folders to show off. It is capable of storing any file type from text, to structured data, to software. And more features are being added by the day. The real power of Git, however, is less about individuals publishing content (many places can do that, including google docs etc). It is more about that content being easily shared, built upon, and credited in a way that is robust to the realities of distributed collaboration. While the power of GitHub is daunting, you don't actually have to be a blackbelt to gain a lot of benefit from using it. You don't even have to know how to code or use the commandline.
 
+### Privacy reminder
+
+This tutorial is scoped for public data and communications only. If you have any questions about the suitability of these technologies for your particular project, please contact the information technology group. https://o2.ohsu.edu/information-technology-group/contact-us.cfm
+
 ### Organization
 
 Git supports the following types of primary entities:
