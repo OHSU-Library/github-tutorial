@@ -112,7 +112,7 @@ How to create an issue in GitHub:
 
 **Your turn:**
 
-Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to the OHSU Library website, or a request for welcome signs in the library) that includes a sub-task list.
+Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to this tutorial) that includes a sub-task list.
 
 ### Assign issues
 [Back to top](#welcome-to-lesson-2)
