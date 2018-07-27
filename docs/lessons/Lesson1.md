@@ -1,6 +1,7 @@
 # Welcome to Lesson 1
 
 - [Getting started](#getting-started)
+- [Privacy reminder](#privacy-reminder)
 - [GitHub Accounts, Organizations and Teams](#organization)
 - [Content types](#content)
 - [Markdown](#markdown)
