@@ -2,7 +2,7 @@
 
 This tutorial contains a short set of presentations and exercises to help users learn more about GitHub and how it can be used for a variety of purposes beyond software development.
 
-Our goal is to help participants set up their GitHub accounts and become comfortable with the concepts, terminology, and capabilities of GitHub and how it can enhance an individual or team effort. We expect that most of the features we will demonstrate can be performed via a web browser and will not require a desktop computer.
+Our goal is to help participants set up their GitHub accounts and become comfortable with the concepts, terminology, and capabilities of GitHub and how it can enhance an individual or team effort. We expect that most of the features we will demonstrate can be performed via a web browser.
 
 - [Caveats](#caveats)
 - [Goals](#Goals)
@@ -46,7 +46,7 @@ This course is focused on all that GitHub can do without requiring a desktop com
 
 ## Lesson Plan
 
-We currently have broken the above material into two Lessons, based upon our estimate of how much can be covered in an hour. This partitioning may be adjusted as we practice this course. The Lessons below are intended to be used by the instructor/guide of the course, but could be used by a self-guided student
+We currently have broken the above material into two lessons. The lessons below are intended to be used by the instructor/guide of the course, but could be used by a self-guided student
 
 - [Lesson 1](lessons/Lesson1.md) GitHub account setup, dashboard, organizational and content models, Gists, Markdown, Data
 - [Lesson 2](lessons/Lesson2.md) GitHub Issues/Milestones, Gitter
