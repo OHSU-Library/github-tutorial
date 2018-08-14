@@ -1,8 +1,8 @@
-# OHSU Library GitHub Tutorial
+# CD2H GitHub Tutorial
 
-The [OHSU Library Ontology Development Group](http://www.ohsu.edu/xd/education/library/about/departments/ontology/) has prepared a short set of presentations and exercises to help our team, and perhaps others in the [OHSU Library](http://www.ohsu.edu/xd/education/library/), learn more about GitHub and how it can be used for a variety of purposes beyond software development.
+This tutorial contains a short set of presentations and exercises to help users learn more about GitHub and how it can be used for a variety of purposes beyond software development.
 
-Our goal is to help participants set up their GitHub accounts and become comfortable with the concepts, terminology, and capabilities of GitHub and how it can enhance an individual or team effort. We expect that most of the features we will demonstrate can be performed via a web browser and will not require a desktop computer.
+Our goal is to help participants set up their GitHub accounts and become comfortable with the concepts, terminology, and capabilities of GitHub and how it can enhance an individual or team effort. We expect that most of the features we will demonstrate can be performed via a web browser.
 
 - [Caveats](#caveats)
 - [Goals](#Goals)
@@ -13,7 +13,7 @@ Our goal is to help participants set up their GitHub accounts and become comfort
 
 ## Caveats
 
-This is version 1.0 of This Tutorial. We hope to learn through feedback from the tutorial participants, and to use this to improve the tutorial materials. All of the content for this course is being created and shared via GitHub, where we intend to encourage participants to collaborate and improve the content, while learning and exercising GitHub-based techniques.
+This is version 1.1 of this tutorial. We hope to learn through feedback from the tutorial participants, and to use this to improve the tutorial materials. All of the content for this course is being created and shared via GitHub, where we intend to encourage participants to collaborate and improve the content, while learning and exercising GitHub-based techniques.
 
 #### Privacy
 This tutorial is scoped for public data and communications only. If you have any questions about the suitability of these technologies for your particular project, please contact the information technology group. https://o2.ohsu.edu/information-technology-group/contact-us.cfm
@@ -46,7 +46,7 @@ This course is focused on all that GitHub can do without requiring a desktop com
 
 ## Lesson Plan
 
-We currently have broken the above material into two Lessons, based upon our estimate of how much can be covered in an hour. This partitioning may be adjusted as we practice this course. The Lessons below are intended to be used by the instructor/guide of the course, but could be used by a self-guided student
+We currently have broken the above material into two lessons. The lessons below are intended to be used by the instructor/guide of the course, but could be used by a self-guided student
 
 - [Lesson 1](lessons/Lesson1.md) GitHub account setup, dashboard, organizational and content models, Gists, Markdown, Data
 - [Lesson 2](lessons/Lesson2.md) GitHub Issues/Milestones, Gitter

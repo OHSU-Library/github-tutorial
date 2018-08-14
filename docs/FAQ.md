@@ -9,7 +9,4 @@
 [GitLab](https://en.wikipedia.org/wiki/GitLab) is an open-source system that provides many of GitHub's features, but is free and open. Organizations can either install a GitLab system onto their own servers, or they can adopt the hosted solution at [GitLab.com](https://about.gitlab.com/products/) which includes a free pricing plan as well as tiered pricing for additional features and privacy.
 
 
-### How Do I Create a Subdirectory via the Web UI?
-
-
 ### [Back to Home](index)

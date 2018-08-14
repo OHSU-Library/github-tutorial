@@ -19,10 +19,11 @@ This tutorial is scoped for public data and communications only. If you have any
 [Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
 
 **Start using Gitter**
+**_Do we want to have folks do this? If yes, we need to update this and create a CD2H chat room_**
 
 - Go to the [gitter website](https://gitter.im/)
 - Click on the top right SIGN IN TO START TALKING
-- Sign in with github
+- Sign in with GitHub
 - Click on the mangifying glass on the left hand side to search
 - Search for OHSU-Library
 - Click on the room and join the chat
@@ -111,7 +112,7 @@ How to create an issue in GitHub:
 
 **Your turn:**
 
-Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to the OHSU Library website, or a request for welcome signs in the library) that includes a sub-task list.
+Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to this tutorial) that includes a sub-task list.
 
 ### Assign issues
 [Back to top](#welcome-to-lesson-2)
